@@ -1,0 +1,2581 @@
+01-01 00:00:32;OTApplication;application is deep:false
+01-01 00:00:32;OTApplication;app version name = [4.0_151015_16]
+01-01 00:00:32;OTApplication;OTApplication newVersionStr: 
+01-01 00:00:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+01-01 00:00:33;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.BOOT_COMPLETED
+01-01 00:00:33;jimmy;changeStr inter: 1201EX-A_11_190312
+01-01 00:00:33;queryNewVersionTag;queryNewVersionTag  realTime = OtaStrategy.QueryStrategy.AUTO_UPDATE_INTERVAL
+06-22 15:07:41;OTApplication;application is deep:false
+06-22 15:07:41;OTApplication;app version name = [4.0_151015_16]
+06-22 15:07:41;OTApplication;OTApplication newVersionStr: 
+06-22 15:07:41;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:07:41;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 15:07:41;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 15:07:41;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 15:07:41;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 15:07:41;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 15:07:41;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 15:07:41;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 15:07:41;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 15:07:41;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 15:07:41;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 15:07:41;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 15:07:41;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 15:07:41;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 15:07:41;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 15:07:42;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 15:07:42;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 15:07:42;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 15:07:42;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 15:07:42;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 15:07:42;DownloadService;dzc DownloadService onCreate
+06-22 15:07:42;DownloadService;dzc DownloadService onStartCommand
+06-22 15:07:42;DownloadService;dzc DownloadService onStart
+06-22 15:07:42;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 15:07:42;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 15:10:42;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 15:10:42;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 15:10:42;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 15:10:42;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 15:10:42;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 15:10:42;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 15:10:43;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 15:10:43;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 15:10:43;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 15:10:43;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 15:10:43;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 15:10:43;DownloadService;dzc DownloadService onStartCommand
+06-22 15:10:43;DownloadService;dzc DownloadService onStart
+06-22 15:10:43;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 15:10:43;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 15:17:24;OTApplication;application is deep:false
+06-22 15:17:24;OTApplication;app version name = [4.0_151015_16]
+06-22 15:17:24;OTApplication;OTApplication newVersionStr: 
+06-22 15:17:24;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:23:11;OTApplication;application is deep:false
+06-22 15:23:11;OTApplication;app version name = [4.0_151015_16]
+06-22 15:23:11;OTApplication;OTApplication newVersionStr: 
+06-22 15:23:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:25:11;OTApplication;application is deep:false
+06-22 15:25:11;OTApplication;app version name = [4.0_151015_16]
+06-22 15:25:11;OTApplication;OTApplication newVersionStr: 
+06-22 15:25:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:26:14;EntryActivity;bindDownloadService EntryActivity
+06-22 15:26:14;OTApplication;EntryActivity bindAutoPatchService
+06-22 15:26:14;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 15:26:14;OTApplication;RequestBuilder jimmy queryCurrentVesionInfo json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","language":"vi"}
+06-22 15:26:14;DownloadService;dzc DownloadService onCreate
+06-22 15:26:14;DownloadService;dzc DownloadService onStartCommand
+06-22 15:26:14;DownloadService;dzc DownloadService onStart
+06-22 15:26:14;DownloadService;DownloadStub is empty,do new DownloadStub() 
+06-22 15:26:14;OTApplication;RequestBuilder jimmy queryCurrentVesionInfo json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","language":"vi"}
+06-22 15:26:14;jimmy;jimmy ds state:0
+06-22 15:26:14;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@20d21b44
+06-22 15:26:14;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@185c842d
+06-22 15:26:14;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 15:26:15;jimmy;query savelast des:http://otaafs-cost.coloros.com/UNKNOWN/1201EX-A_11.A.17_INT_017_201903120851/html/amazone2/INT/1201EX-A/1201EX-A_11.A.17_INT_017_201903120851/VI_5c28f7362e_5_0.html share:. rec:100 intro:Phiên bản này tăng cường tính ổn định của hệ thống, khuyến khích người dùng cập nhật.
+06-22 15:26:15;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 15:26:15;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 15:26:15;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 15:26:15;OTApplication;EntryActivity response state is304
+06-22 15:26:18;jimmy;query savelast des:http://otaafs-cost.coloros.com/UNKNOWN/1201EX-A_11.A.17_INT_017_201903120851/html/amazone2/INT/1201EX-A/1201EX-A_11.A.17_INT_017_201903120851/VI_5c28f7362e_5_0.html share:. rec:100 intro:Phiên bản này tăng cường tính ổn định của hệ thống, khuyến khích người dùng cập nhật.
+06-22 15:26:18;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 15:26:18;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 15:26:18;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 15:26:18;OTApplication;EntryActivity response state is304
+06-22 15:26:22;LocalScanner; 启动本地安装包扫描
+06-22 15:26:22;LocalScanner;sections.length:5
+06-22 15:26:22;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 15:26:22;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 15:26:22;LocalScanner;run: INTERNAL_STORAGE_PATH = /storage/emulated/0
+06-22 15:26:22;LocalUpgradeActivity;from filemanage to install encrypted: unencrypted
+06-22 15:26:22;LocalUpgradeActivity;android.intent.action.BATTERY_CHANGED
+06-22 15:26:22;LocalScanner;t卡是否挂载: false
+06-22 15:26:23;LocalScanner; 启动本地安装包扫描
+06-22 15:26:23;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 15:26:23;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 15:26:23;LocalScanner;run: INTERNAL_STORAGE_PATH = /storage/emulated/0
+06-22 15:26:23;LocalScanner;t卡是否挂载: false
+06-22 15:28:45;OTApplication;application is deep:false
+06-22 15:28:45;OTApplication;app version name = [4.0_151015_16]
+06-22 15:28:45;OTApplication;OTApplication newVersionStr: 
+06-22 15:28:45;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:28:45;DownloadService;dzc DownloadService onCreate
+06-22 15:28:45;DownloadService;dzc DownloadService onStartCommand
+06-22 15:28:45;DownloadService;dzc DownloadService onStart
+06-22 15:37:07;OTApplication;application is deep:false
+06-22 15:37:07;OTApplication;app version name = [4.0_151015_16]
+06-22 15:37:07;OTApplication;OTApplication newVersionStr: 
+06-22 15:37:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:38:45;OTApplication;application is deep:false
+06-22 15:38:45;OTApplication;app version name = [4.0_151015_16]
+06-22 15:38:45;OTApplication;OTApplication newVersionStr: 
+06-22 15:38:45;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:39:34;OTApplication;application is deep:false
+06-22 15:39:34;OTApplication;app version name = [4.0_151015_16]
+06-22 15:39:34;OTApplication;OTApplication newVersionStr: 
+06-22 15:39:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:42:01;OTApplication;application is deep:false
+06-22 15:42:01;OTApplication;app version name = [4.0_151015_16]
+06-22 15:42:01;OTApplication;OTApplication newVersionStr: 
+06-22 15:42:01;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:43:43;OTApplication;application is deep:false
+06-22 15:43:43;OTApplication;app version name = [4.0_151015_16]
+06-22 15:43:43;OTApplication;OTApplication newVersionStr: 
+06-22 15:43:43;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:46:02;OTApplication;application is deep:false
+06-22 15:46:02;OTApplication;app version name = [4.0_151015_16]
+06-22 15:46:02;OTApplication;OTApplication newVersionStr: 
+06-22 15:46:02;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:51:11;OTApplication;application is deep:false
+06-22 15:51:11;OTApplication;app version name = [4.0_151015_16]
+06-22 15:51:11;OTApplication;OTApplication newVersionStr: 
+06-22 15:51:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:54:12;OTApplication;application is deep:false
+06-22 15:54:12;OTApplication;app version name = [4.0_151015_16]
+06-22 15:54:12;OTApplication;OTApplication newVersionStr: 
+06-22 15:54:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 15:56:33;OTApplication;application is deep:false
+06-22 15:56:33;OTApplication;app version name = [4.0_151015_16]
+06-22 15:56:33;OTApplication;OTApplication newVersionStr: 
+06-22 15:56:33;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:10:34;OTApplication;application is deep:false
+06-22 16:10:34;OTApplication;app version name = [4.0_151015_16]
+06-22 16:10:34;OTApplication;OTApplication newVersionStr: 
+06-22 16:10:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:10:34;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:10:34;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 16:10:34;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 16:10:34;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 16:10:34;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 16:10:34;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:10:34;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 16:10:34;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:10:34;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 16:10:34;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 16:10:34;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 16:10:34;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 16:10:34;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 16:10:34;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 16:10:35;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 16:10:35;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 16:10:35;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 16:10:35;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 16:10:35;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 16:10:35;DownloadService;dzc DownloadService onCreate
+06-22 16:10:36;DownloadService;dzc DownloadService onStartCommand
+06-22 16:10:36;DownloadService;dzc DownloadService onStart
+06-22 16:10:36;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 16:10:36;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 16:11:15;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:11:15;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 16:11:15;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 16:11:15;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 16:11:15;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 16:11:15;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:11:15;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 16:11:15;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:11:15;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 16:11:15;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 16:11:15;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 16:11:15;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 16:11:15;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 16:11:15;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 16:11:17;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 16:11:17;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 16:11:17;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 16:11:17;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 16:11:17;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 16:11:17;DownloadService;dzc DownloadService onStartCommand
+06-22 16:11:17;DownloadService;dzc DownloadService onStart
+06-22 16:11:17;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 16:11:18;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 16:11:30;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:11:30;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 16:11:30;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 16:11:30;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 16:11:30;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 16:11:30;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:11:30;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 16:11:30;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:11:30;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 16:11:30;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 16:11:30;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 16:11:30;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 16:11:30;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 16:11:30;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 16:11:31;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 16:11:31;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 16:11:31;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 16:11:31;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 16:11:31;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 16:11:31;DownloadService;dzc DownloadService onStartCommand
+06-22 16:11:31;DownloadService;dzc DownloadService onStart
+06-22 16:11:31;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 16:11:31;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 16:17:31;OTApplication;application is deep:false
+06-22 16:17:31;OTApplication;app version name = [4.0_151015_16]
+06-22 16:17:31;OTApplication;OTApplication newVersionStr: 
+06-22 16:17:31;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:17:31;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:17:32;OTApplication;application is deep:false
+06-22 16:17:32;OTApplication;app version name = [4.0_151015_16]
+06-22 16:17:32;OTApplication;OTApplication newVersionStr: 
+06-22 16:17:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:17:46;OTApplication;application is deep:false
+06-22 16:17:46;OTApplication;app version name = [4.0_151015_16]
+06-22 16:17:46;OTApplication;OTApplication newVersionStr: 
+06-22 16:17:46;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:17:47;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:17:47;OTApplication;application is deep:false
+06-22 16:17:47;OTApplication;app version name = [4.0_151015_16]
+06-22 16:17:47;OTApplication;OTApplication newVersionStr: 
+06-22 16:17:47;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:18:01;OTApplication;application is deep:false
+06-22 16:18:01;OTApplication;app version name = [4.0_151015_16]
+06-22 16:18:01;OTApplication;OTApplication newVersionStr: 
+06-22 16:18:01;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:18:01;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 16:18:01;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 16:18:01;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 16:18:01;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 16:18:01;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 16:18:01;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:18:01;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 16:18:01;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:18:01;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 16:18:01;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 16:18:01;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 16:18:01;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 16:18:01;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 16:18:01;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 16:18:03;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 16:18:03;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 16:18:03;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 16:18:03;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 16:18:03;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 16:18:03;DownloadService;dzc DownloadService onCreate
+06-22 16:18:03;DownloadService;dzc DownloadService onStartCommand
+06-22 16:18:03;DownloadService;dzc DownloadService onStart
+06-22 16:18:03;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 16:18:03;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 16:21:50;EntryActivity;bindDownloadService EntryActivity
+06-22 16:21:50;OTApplication;EntryActivity bindAutoPatchService
+06-22 16:21:50;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 16:21:50;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:21:50;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:21:50;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:21:50;DownloadService;dzc DownloadService onStartCommand
+06-22 16:21:50;DownloadService;dzc DownloadService onStart
+06-22 16:21:50;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:21:50;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:21:50;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:21:50;jimmy;jimmy ds state:0
+06-22 16:21:50;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@3a87d457
+06-22 16:21:50;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@20d21b44
+06-22 16:21:50;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 16:21:51;OTApplication;EntryActivity response state is304
+06-22 16:21:51;OTApplication;EntryActivity response state is304
+06-22 16:24:48;OTApplication;application is deep:false
+06-22 16:24:48;OTApplication;app version name = [4.0_151015_16]
+06-22 16:24:48;OTApplication;OTApplication newVersionStr: 
+06-22 16:24:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:24:48;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 16:24:48;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 16:24:48;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 16:24:48;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 16:24:48;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 16:24:48;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 16:24:49;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 16:24:49;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 16:24:49;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 16:24:49;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 16:24:49;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 16:24:49;DownloadService;dzc DownloadService onCreate
+06-22 16:24:49;DownloadService;dzc DownloadService onStartCommand
+06-22 16:24:49;DownloadService;dzc DownloadService onStart
+06-22 16:24:49;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 16:24:49;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 16:43:15;OTApplication;application is deep:false
+06-22 16:43:15;OTApplication;app version name = [4.0_151015_16]
+06-22 16:43:15;OTApplication;OTApplication newVersionStr: 
+06-22 16:43:15;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 16:43:24;EntryActivity;bindDownloadService EntryActivity
+06-22 16:43:24;OTApplication;EntryActivity bindAutoPatchService
+06-22 16:43:24;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 16:43:24;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:43:24;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:43:24;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:43:24;DownloadService;dzc DownloadService onCreate
+06-22 16:43:24;DownloadService;dzc DownloadService onStartCommand
+06-22 16:43:24;DownloadService;dzc DownloadService onStart
+06-22 16:43:24;DownloadService;DownloadStub is empty,do new DownloadStub() 
+06-22 16:43:24;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:43:24;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:43:24;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:43:24;jimmy;jimmy ds state:0
+06-22 16:43:24;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@18d949d6
+06-22 16:43:24;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@3a87d457
+06-22 16:43:24;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 16:43:24;OTApplication;EntryActivity response state is304
+06-22 16:43:24;OTApplication;EntryActivity response state is304
+06-22 16:43:42;EntryActivity;bindDownloadService EntryActivity
+06-22 16:43:42;OTApplication;EntryActivity bindAutoPatchService
+06-22 16:43:42;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 16:43:42;DownloadService;dzc DownloadService onStartCommand
+06-22 16:43:42;DownloadService;dzc DownloadService onStart
+06-22 16:43:42;jimmy;jimmy ds state:0
+06-22 16:43:42;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@255a3e83
+06-22 16:43:42;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@3a87d457
+06-22 16:43:42;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:43:42;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:43:42;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:43:42;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 16:43:43;OTApplication;EntryActivity response state is304
+06-22 16:44:28;EntryActivity;bindDownloadService EntryActivity
+06-22 16:44:28;OTApplication;EntryActivity bindAutoPatchService
+06-22 16:44:28;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 16:44:28;DownloadService;dzc DownloadService onStartCommand
+06-22 16:44:28;DownloadService;dzc DownloadService onStart
+06-22 16:44:28;jimmy;jimmy ds state:0
+06-22 16:44:28;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@1af728f
+06-22 16:44:28;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@3a87d457
+06-22 16:44:28;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 16:44:28;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 16:44:28;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 16:44:28;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 16:44:29;OTApplication;EntryActivity response state is304
+06-22 17:23:30;OTApplication;application is deep:false
+06-22 17:23:30;OTApplication;app version name = [4.0_151015_16]
+06-22 17:23:30;OTApplication;OTApplication newVersionStr: 
+06-22 17:23:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:24:05;OTApplication;application is deep:false
+06-22 17:24:05;OTApplication;app version name = [4.0_151015_16]
+06-22 17:24:05;OTApplication;OTApplication newVersionStr: 
+06-22 17:24:05;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:30:46;OTApplication;application is deep:false
+06-22 17:30:46;OTApplication;app version name = [4.0_151015_16]
+06-22 17:30:46;OTApplication;OTApplication newVersionStr: 
+06-22 17:30:46;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:30:47;OTApplication;application is deep:false
+06-22 17:30:47;OTApplication;app version name = [4.0_151015_16]
+06-22 17:30:47;OTApplication;OTApplication newVersionStr: 
+06-22 17:30:47;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:31:21;OTApplication;application is deep:false
+06-22 17:31:21;OTApplication;app version name = [4.0_151015_16]
+06-22 17:31:21;OTApplication;OTApplication newVersionStr: 
+06-22 17:31:21;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:31:22;OTApplication;application is deep:false
+06-22 17:31:22;OTApplication;app version name = [4.0_151015_16]
+06-22 17:31:22;OTApplication;OTApplication newVersionStr: 
+06-22 17:31:22;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:17;OTApplication;application is deep:false
+06-22 17:32:17;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:17;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:17;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 17:32:18;OTApplication;application is deep:false
+06-22 17:32:18;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:18;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:18;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:19;OTApplication;application is deep:false
+06-22 17:32:19;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:19;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:27;OTApplication;application is deep:false
+06-22 17:32:27;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:27;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:27;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:28;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 17:32:29;OTApplication;application is deep:false
+06-22 17:32:29;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:29;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:29;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:30;OTApplication;application is deep:false
+06-22 17:32:30;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:30;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:32:31;OTApplication;application is deep:false
+06-22 17:32:31;OTApplication;app version name = [4.0_151015_16]
+06-22 17:32:31;OTApplication;OTApplication newVersionStr: 
+06-22 17:32:31;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:33:26;OTApplication;application is deep:false
+06-22 17:33:26;OTApplication;app version name = [4.0_151015_16]
+06-22 17:33:26;OTApplication;OTApplication newVersionStr: 
+06-22 17:33:26;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 17:33:26;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 17:33:26;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 17:33:26;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 17:33:26;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 17:33:26;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 17:33:26;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 17:33:26;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 17:33:26;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 17:33:26;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 17:33:26;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 17:33:26;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 17:33:26;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 17:33:26;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 17:33:26;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 17:33:27;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 17:33:27;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 17:33:27;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 17:33:27;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 17:33:27;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 17:33:27;DownloadService;dzc DownloadService onCreate
+06-22 17:33:27;DownloadService;dzc DownloadService onStartCommand
+06-22 17:33:27;DownloadService;dzc DownloadService onStart
+06-22 17:33:27;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 17:33:27;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 18:12:14;OTApplication;application is deep:false
+06-22 18:12:14;OTApplication;app version name = [4.0_151015_16]
+06-22 18:12:14;OTApplication;OTApplication newVersionStr: 
+06-22 18:12:14;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 18:12:14;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 18:12:14;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 18:12:14;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 18:12:14;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 18:12:14;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 18:12:14;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 18:12:15;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 18:12:15;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 18:12:15;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 18:12:15;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 18:12:15;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 18:12:15;DownloadService;dzc DownloadService onCreate
+06-22 18:12:15;DownloadService;dzc DownloadService onStartCommand
+06-22 18:12:15;DownloadService;dzc DownloadService onStart
+06-22 18:12:15;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 18:12:15;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 20:16:34;OTApplication;application is deep:false
+06-22 20:16:34;OTApplication;app version name = [4.0_151015_16]
+06-22 20:16:34;OTApplication;OTApplication newVersionStr: 
+06-22 20:16:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 20:16:34;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 20:16:34;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 20:16:34;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 20:16:34;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 20:16:34;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 20:16:34;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 20:16:37;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 20:16:37;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 20:16:37;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 20:16:37;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 20:16:37;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 20:16:37;DownloadService;dzc DownloadService onCreate
+06-22 20:16:37;DownloadService;dzc DownloadService onStartCommand
+06-22 20:16:37;DownloadService;dzc DownloadService onStart
+06-22 20:16:37;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 20:16:37;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 20:37:35;OTApplication;application is deep:false
+06-22 20:37:35;OTApplication;app version name = [4.0_151015_16]
+06-22 20:37:35;OTApplication;OTApplication newVersionStr: 
+06-22 20:37:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 20:37:57;OTApplication;application is deep:false
+06-22 20:37:57;OTApplication;app version name = [4.0_151015_16]
+06-22 20:37:57;OTApplication;OTApplication newVersionStr: 
+06-22 20:37:57;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 20:37:57;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-22 20:37:57;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-22 20:37:57;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-22 20:37:57;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-22 20:37:57;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-22 20:37:57;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 20:37:57;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-22 20:37:57;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 20:37:57;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-22 20:37:57;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 20:37:57;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 20:37:57;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 20:37:57;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 20:37:57;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 20:37:58;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 20:37:58;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 20:37:58;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 20:37:58;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 20:37:58;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-22 20:37:58;DownloadService;dzc DownloadService onCreate
+06-22 20:37:58;DownloadService;dzc DownloadService onStartCommand
+06-22 20:37:58;DownloadService;dzc DownloadService onStart
+06-22 20:37:58;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 20:37:58;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 20:38:30;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.BOOT_COMPLETED
+06-22 20:38:30;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 20:38:30;queryNewVersionTag;queryNewVersionTag  realTime = OtaStrategy.QueryStrategy.AUTO_UPDATE_INTERVAL
+06-22 20:38:32;OTApplication;application is deep:false
+06-22 20:38:32;OTApplication;app version name = [4.0_151015_16]
+06-22 20:38:32;OTApplication;OTApplication newVersionStr: 
+06-22 20:38:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 20:38:32;DownloadService;dzc DownloadService onCreate
+06-22 20:38:32;DownloadService;dzc DownloadService onStartCommand
+06-22 20:38:32;DownloadService;dzc DownloadService onStart
+06-22 20:48:15;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 20:48:15;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 20:48:15;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 20:48:15;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 20:48:15;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 20:48:15;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 20:48:17;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 20:48:17;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 20:48:17;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 20:48:17;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 20:48:17;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 20:48:17;DownloadService;dzc DownloadService onStartCommand
+06-22 20:48:17;DownloadService;dzc DownloadService onStart
+06-22 20:48:17;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 20:48:17;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 21:23:58;OTApplication;application is deep:false
+06-22 21:23:58;OTApplication;app version name = [4.0_151015_16]
+06-22 21:23:58;OTApplication;OTApplication newVersionStr: 
+06-22 21:23:58;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 21:23:58;DownloadService;dzc DownloadService onCreate
+06-22 21:23:58;DownloadService;dzc DownloadService onStartCommand
+06-22 21:23:58;DownloadService;dzc DownloadService onStart
+06-22 21:36:16;EntryActivity;bindDownloadService EntryActivity
+06-22 21:36:16;OTApplication;EntryActivity bindAutoPatchService
+06-22 21:36:16;InstallBaseActvity;InstallBaseActvity on new Intent
+06-22 21:36:16;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 21:36:16;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 21:36:16;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 21:36:16;DownloadService;dzc DownloadService onStartCommand
+06-22 21:36:16;DownloadService;dzc DownloadService onStart
+06-22 21:36:16;DownloadService;DownloadStub is empty,do new DownloadStub() 
+06-22 21:36:16;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-22 21:36:16;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-22 21:36:16;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-22 21:36:16;jimmy;jimmy ds state:0
+06-22 21:36:16;OTApplication;AutoPatchService AutoPatchServiceStub registerListener key = EntryActivity, IPatchProgressListener = com.oppo.ota.activity.EntryActivity$PatchProgressListner@34f7f64
+06-22 21:36:16;OTApplication;EntryActivity onPatchServiceConnect mPatchStub = com.oppo.ota.app.AutoPatchService$AutoPatchServiceStub@d01e5cd
+06-22 21:36:16;jimmy;changeStr inter: 1201EX-A_11_190312
+06-22 21:36:22;OTApplication;EntryActivity response state is304
+06-22 21:36:22;OTApplication;EntryActivity response state is304
+06-22 21:36:25;LocalUpgradeActivity;from filemanage to install encrypted: unencrypted
+06-22 21:36:25;LocalUpgradeActivity;android.intent.action.BATTERY_CHANGED
+06-22 21:36:26;LocalScanner; 启动本地安装包扫描
+06-22 21:36:26;LocalScanner;sections.length:5
+06-22 21:36:26;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 21:36:26;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 21:36:26;LocalScanner;run: INTERNAL_STORAGE_PATH = /storage/emulated/0
+06-22 21:36:26;LocalScanner;t卡是否挂载: false
+06-22 21:36:27;LocalScanner; 启动本地安装包扫描
+06-22 21:36:27;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 21:36:27;OppoEnvironment;the length of volumes[] is: 3 ,expected is 1 or 2 !
+06-22 21:36:27;LocalScanner;run: INTERNAL_STORAGE_PATH = /storage/emulated/0
+06-22 21:36:28;LocalScanner;t卡是否挂载: false
+06-22 22:41:13;OTApplication;application is deep:false
+06-22 22:41:13;OTApplication;app version name = [4.0_151015_16]
+06-22 22:41:13;OTApplication;OTApplication newVersionStr: 
+06-22 22:41:13;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 22:41:20;DownloadService;dzc DownloadService onCreate
+06-22 22:41:21;DownloadService;dzc DownloadService onStartCommand
+06-22 22:41:21;DownloadService;dzc DownloadService onStart
+06-22 22:56:10;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-22 22:56:10;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-22 22:56:10;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-22 22:56:10;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-22 22:56:10;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-22 22:56:10;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-22 22:56:11;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-22 22:56:11;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-22 22:56:11;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-22 22:56:11;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-22 22:56:11;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-22 22:56:11;DownloadService;dzc DownloadService onStartCommand
+06-22 22:56:11;DownloadService;dzc DownloadService onStart
+06-22 22:56:11;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-22 22:56:11;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-22 23:38:12;OTApplication;application is deep:false
+06-22 23:38:12;OTApplication;app version name = [4.0_151015_16]
+06-22 23:38:12;OTApplication;OTApplication newVersionStr: 
+06-22 23:38:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-22 23:38:12;DownloadService;dzc DownloadService onCreate
+06-22 23:38:13;DownloadService;dzc DownloadService onStartCommand
+06-22 23:38:13;DownloadService;dzc DownloadService onStart
+06-23 00:08:30;OTApplication;application is deep:false
+06-23 00:08:30;OTApplication;app version name = [4.0_151015_16]
+06-23 00:08:30;OTApplication;OTApplication newVersionStr: 
+06-23 00:08:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 00:08:36;DownloadService;dzc DownloadService onCreate
+06-23 00:08:37;DownloadService;dzc DownloadService onStartCommand
+06-23 00:08:37;DownloadService;dzc DownloadService onStart
+06-23 00:25:02;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 00:25:02;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 00:25:02;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 00:25:02;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 00:25:02;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 00:25:02;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 00:25:03;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 00:25:03;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 00:25:03;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 00:25:03;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 00:25:03;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 00:25:03;DownloadService;dzc DownloadService onStartCommand
+06-23 00:25:03;DownloadService;dzc DownloadService onStart
+06-23 00:25:03;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 00:25:03;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 01:12:19;OTApplication;application is deep:false
+06-23 01:12:19;OTApplication;app version name = [4.0_151015_16]
+06-23 01:12:20;OTApplication;OTApplication newVersionStr: 
+06-23 01:12:20;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:12:29;DownloadService;dzc DownloadService onCreate
+06-23 01:12:32;DownloadService;dzc DownloadService onStartCommand
+06-23 01:12:32;DownloadService;dzc DownloadService onStart
+06-23 01:13:29;OTApplication;application is deep:false
+06-23 01:13:29;OTApplication;app version name = [4.0_151015_16]
+06-23 01:13:30;OTApplication;OTApplication newVersionStr: 
+06-23 01:13:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:13:35;DownloadService;dzc DownloadService onCreate
+06-23 01:13:39;DownloadService;dzc DownloadService onStartCommand
+06-23 01:13:40;DownloadService;dzc DownloadService onStart
+06-23 01:14:15;OTApplication;application is deep:false
+06-23 01:14:15;OTApplication;app version name = [4.0_151015_16]
+06-23 01:14:15;OTApplication;OTApplication newVersionStr: 
+06-23 01:14:15;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:14:16;DownloadService;dzc DownloadService onCreate
+06-23 01:14:17;DownloadService;dzc DownloadService onStartCommand
+06-23 01:14:17;DownloadService;dzc DownloadService onStart
+06-23 01:15:41;OTApplication;application is deep:false
+06-23 01:15:41;OTApplication;app version name = [4.0_151015_16]
+06-23 01:15:41;OTApplication;OTApplication newVersionStr: 
+06-23 01:15:41;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:15:41;DownloadService;dzc DownloadService onCreate
+06-23 01:15:41;DownloadService;dzc DownloadService onStartCommand
+06-23 01:15:41;DownloadService;dzc DownloadService onStart
+06-23 01:46:25;OTApplication;application is deep:false
+06-23 01:46:25;OTApplication;app version name = [4.0_151015_16]
+06-23 01:46:25;OTApplication;OTApplication newVersionStr: 
+06-23 01:46:25;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:46:26;DownloadService;dzc DownloadService onCreate
+06-23 01:46:26;DownloadService;dzc DownloadService onStartCommand
+06-23 01:46:26;DownloadService;dzc DownloadService onStart
+06-23 01:51:51;OTApplication;application is deep:false
+06-23 01:51:51;OTApplication;app version name = [4.0_151015_16]
+06-23 01:51:52;OTApplication;OTApplication newVersionStr: 
+06-23 01:51:52;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:51:57;DownloadService;dzc DownloadService onCreate
+06-23 01:51:58;DownloadService;dzc DownloadService onStartCommand
+06-23 01:51:58;DownloadService;dzc DownloadService onStart
+06-23 01:52:34;OTApplication;application is deep:false
+06-23 01:52:34;OTApplication;app version name = [4.0_151015_16]
+06-23 01:52:34;OTApplication;OTApplication newVersionStr: 
+06-23 01:52:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:52:38;DownloadService;dzc DownloadService onCreate
+06-23 01:52:39;DownloadService;dzc DownloadService onStartCommand
+06-23 01:52:39;DownloadService;dzc DownloadService onStart
+06-23 01:53:00;OTApplication;application is deep:false
+06-23 01:53:00;OTApplication;app version name = [4.0_151015_16]
+06-23 01:53:00;OTApplication;OTApplication newVersionStr: 
+06-23 01:53:00;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:53:03;DownloadService;dzc DownloadService onCreate
+06-23 01:53:03;DownloadService;dzc DownloadService onStartCommand
+06-23 01:53:03;DownloadService;dzc DownloadService onStart
+06-23 01:53:37;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 01:53:44;OTApplication;application is deep:false
+06-23 01:53:44;OTApplication;app version name = [4.0_151015_16]
+06-23 01:53:44;OTApplication;OTApplication newVersionStr: 
+06-23 01:53:44;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 01:53:44;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 01:53:44;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 01:53:44;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:44;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 01:53:44;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag reach next query because over section
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-22:14-44-16
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag start query service when connect to wifi
+06-23 01:53:44;UpdateReceiver;dzc UpdateReceiver startSectionQuery: no need to kill
+06-23 01:53:44;DownloadService;dzc DownloadService onCreate
+06-23 01:53:44;DownloadService;dzc DownloadService onStartCommand
+06-23 01:53:44;DownloadService;dzc DownloadService onStart
+06-23 01:53:44;;do query service
+06-23 01:53:44;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:44;QueryService;QueryService is cmcc and not query:false
+06-23 01:53:44;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:44;queryNewVersionTag;queryNewVersionTag onHandleIntent:start 启动检查更新服务
+06-23 01:53:44;QueryService;QueryService source is:dayWifi
+06-23 01:53:44;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-23 01:53:44;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-23 01:53:54;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 01:53:54;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 01:53:54;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 01:53:54;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 01:53:54;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 01:53:54;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:54;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 01:53:54;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 01:53:54;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 01:53:55;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 01:53:55;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 01:53:55;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 01:53:55;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 01:53:55;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 01:53:55;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 01:53:55;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 01:53:55;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 01:53:55;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 01:53:55;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 01:53:55;DownloadService;dzc DownloadService onStartCommand
+06-23 01:53:55;DownloadService;dzc DownloadService onStart
+06-23 01:53:55;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 01:53:55;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 01:53:59;queryNewVersionTag;queryNewVersionTag 检查更新服务端返回值:304
+06-23 01:53:59;QueryService;onHandleIntent: there is no newer upgrade!!!
+06-23 02:29:55;OTApplication;application is deep:false
+06-23 02:29:55;OTApplication;app version name = [4.0_151015_16]
+06-23 02:29:55;OTApplication;OTApplication newVersionStr: 
+06-23 02:29:55;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 02:29:56;DownloadService;dzc DownloadService onCreate
+06-23 02:29:56;DownloadService;dzc DownloadService onStartCommand
+06-23 02:29:56;DownloadService;dzc DownloadService onStart
+06-23 02:45:51;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 02:45:51;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 02:45:51;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 02:45:51;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 02:45:51;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 02:45:51;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 02:45:52;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 02:45:52;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 02:45:52;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 02:45:52;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 02:45:52;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 02:45:52;DownloadService;dzc DownloadService onStartCommand
+06-23 02:45:52;DownloadService;dzc DownloadService onStart
+06-23 02:45:52;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 02:45:52;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 03:27:23;OTApplication;application is deep:false
+06-23 03:27:23;OTApplication;app version name = [4.0_151015_16]
+06-23 03:27:23;OTApplication;OTApplication newVersionStr: 
+06-23 03:27:23;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 03:27:24;DownloadService;dzc DownloadService onCreate
+06-23 03:27:24;DownloadService;dzc DownloadService onStartCommand
+06-23 03:27:24;DownloadService;dzc DownloadService onStart
+06-23 04:08:03;OTApplication;application is deep:false
+06-23 04:08:03;OTApplication;app version name = [4.0_151015_16]
+06-23 04:08:03;OTApplication;OTApplication newVersionStr: 
+06-23 04:08:03;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:08:03;DownloadService;dzc DownloadService onCreate
+06-23 04:08:03;DownloadService;dzc DownloadService onStartCommand
+06-23 04:08:03;DownloadService;dzc DownloadService onStart
+06-23 04:26:30;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 04:26:30;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 04:26:30;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 04:26:30;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 04:26:30;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 04:26:30;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:30;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 04:26:30;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:30;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 04:26:30;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 04:26:30;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 04:26:30;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 04:26:30;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 04:26:30;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 04:26:31;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 04:26:31;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 04:26:31;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 04:26:31;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 04:26:31;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 04:26:31;DownloadService;dzc DownloadService onStartCommand
+06-23 04:26:31;DownloadService;dzc DownloadService onStart
+06-23 04:26:31;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 04:26:31;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 04:26:38;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 04:26:38;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 04:26:38;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 04:26:38;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 04:26:38;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 04:26:38;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:38;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 04:26:38;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:38;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 04:26:38;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 04:26:38;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 04:26:38;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 04:26:38;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 04:26:38;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 04:26:39;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 04:26:39;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 04:26:39;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 04:26:39;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 04:26:39;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 04:26:39;DownloadService;dzc DownloadService onStartCommand
+06-23 04:26:39;DownloadService;dzc DownloadService onStart
+06-23 04:26:39;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 04:26:39;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 04:26:49;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 04:26:49;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 04:26:49;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 04:26:49;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 04:26:49;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 04:26:49;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:49;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 04:26:49;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 04:26:49;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 04:26:49;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 04:26:49;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 04:26:49;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 04:26:49;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 04:26:49;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 04:26:50;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 04:26:50;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 04:26:50;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 04:26:50;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 04:26:50;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 04:26:50;DownloadService;dzc DownloadService onStartCommand
+06-23 04:26:50;DownloadService;dzc DownloadService onStart
+06-23 04:26:50;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 04:26:50;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 04:29:12;OTApplication;application is deep:false
+06-23 04:29:12;OTApplication;app version name = [4.0_151015_16]
+06-23 04:29:12;OTApplication;OTApplication newVersionStr: 
+06-23 04:29:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:29:16;DownloadService;dzc DownloadService onCreate
+06-23 04:29:16;DownloadService;dzc DownloadService onStartCommand
+06-23 04:29:16;DownloadService;dzc DownloadService onStart
+06-23 04:30:46;OTApplication;application is deep:false
+06-23 04:30:46;OTApplication;app version name = [4.0_151015_16]
+06-23 04:30:46;OTApplication;OTApplication newVersionStr: 
+06-23 04:30:46;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:30:47;DownloadService;dzc DownloadService onCreate
+06-23 04:30:47;DownloadService;dzc DownloadService onStartCommand
+06-23 04:30:47;DownloadService;dzc DownloadService onStart
+06-23 04:31:56;OTApplication;application is deep:false
+06-23 04:31:56;OTApplication;app version name = [4.0_151015_16]
+06-23 04:31:56;OTApplication;OTApplication newVersionStr: 
+06-23 04:31:56;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:31:56;DownloadService;dzc DownloadService onCreate
+06-23 04:31:56;DownloadService;dzc DownloadService onStartCommand
+06-23 04:31:56;DownloadService;dzc DownloadService onStart
+06-23 04:36:29;OTApplication;application is deep:false
+06-23 04:36:29;OTApplication;app version name = [4.0_151015_16]
+06-23 04:36:29;OTApplication;OTApplication newVersionStr: 
+06-23 04:36:29;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:36:29;DownloadService;dzc DownloadService onCreate
+06-23 04:36:29;DownloadService;dzc DownloadService onStartCommand
+06-23 04:36:29;DownloadService;dzc DownloadService onStart
+06-23 04:54:28;OTApplication;application is deep:false
+06-23 04:54:28;OTApplication;app version name = [4.0_151015_16]
+06-23 04:54:28;OTApplication;OTApplication newVersionStr: 
+06-23 04:54:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 04:54:28;DownloadService;dzc DownloadService onCreate
+06-23 04:54:28;DownloadService;dzc DownloadService onStartCommand
+06-23 04:54:28;DownloadService;dzc DownloadService onStart
+06-23 05:05:59;OTApplication;application is deep:false
+06-23 05:05:59;OTApplication;app version name = [4.0_151015_16]
+06-23 05:05:59;OTApplication;OTApplication newVersionStr: 
+06-23 05:05:59;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:06:00;DownloadService;dzc DownloadService onCreate
+06-23 05:06:00;DownloadService;dzc DownloadService onStartCommand
+06-23 05:06:00;DownloadService;dzc DownloadService onStart
+06-23 05:07:28;OTApplication;application is deep:false
+06-23 05:07:28;OTApplication;app version name = [4.0_151015_16]
+06-23 05:07:28;OTApplication;OTApplication newVersionStr: 
+06-23 05:07:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:07:31;DownloadService;dzc DownloadService onCreate
+06-23 05:07:31;DownloadService;dzc DownloadService onStartCommand
+06-23 05:07:31;DownloadService;dzc DownloadService onStart
+06-23 05:08:34;OTApplication;application is deep:false
+06-23 05:08:34;OTApplication;app version name = [4.0_151015_16]
+06-23 05:08:34;OTApplication;OTApplication newVersionStr: 
+06-23 05:08:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:08:39;DownloadService;dzc DownloadService onCreate
+06-23 05:08:40;DownloadService;dzc DownloadService onStartCommand
+06-23 05:08:40;DownloadService;dzc DownloadService onStart
+06-23 05:09:37;OTApplication;application is deep:false
+06-23 05:09:37;OTApplication;app version name = [4.0_151015_16]
+06-23 05:09:37;OTApplication;OTApplication newVersionStr: 
+06-23 05:09:37;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:09:37;DownloadService;dzc DownloadService onCreate
+06-23 05:09:37;DownloadService;dzc DownloadService onStartCommand
+06-23 05:09:37;DownloadService;dzc DownloadService onStart
+06-23 05:10:48;OTApplication;application is deep:false
+06-23 05:10:48;OTApplication;app version name = [4.0_151015_16]
+06-23 05:10:49;OTApplication;OTApplication newVersionStr: 
+06-23 05:10:49;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:10:49;DownloadService;dzc DownloadService onCreate
+06-23 05:10:49;DownloadService;dzc DownloadService onStartCommand
+06-23 05:10:49;DownloadService;dzc DownloadService onStart
+06-23 05:12:07;OTApplication;application is deep:false
+06-23 05:12:07;OTApplication;app version name = [4.0_151015_16]
+06-23 05:12:07;OTApplication;OTApplication newVersionStr: 
+06-23 05:12:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:12:07;DownloadService;dzc DownloadService onCreate
+06-23 05:12:07;DownloadService;dzc DownloadService onStartCommand
+06-23 05:12:07;DownloadService;dzc DownloadService onStart
+06-23 05:12:34;OTApplication;application is deep:false
+06-23 05:12:34;OTApplication;app version name = [4.0_151015_16]
+06-23 05:12:34;OTApplication;OTApplication newVersionStr: 
+06-23 05:12:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:12:35;DownloadService;dzc DownloadService onCreate
+06-23 05:12:36;DownloadService;dzc DownloadService onStartCommand
+06-23 05:12:36;DownloadService;dzc DownloadService onStart
+06-23 05:13:33;OTApplication;application is deep:false
+06-23 05:13:33;OTApplication;app version name = [4.0_151015_16]
+06-23 05:13:34;OTApplication;OTApplication newVersionStr: 
+06-23 05:13:34;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:13:35;DownloadService;dzc DownloadService onCreate
+06-23 05:13:36;DownloadService;dzc DownloadService onStartCommand
+06-23 05:13:36;DownloadService;dzc DownloadService onStart
+06-23 05:14:09;OTApplication;application is deep:false
+06-23 05:14:09;OTApplication;app version name = [4.0_151015_16]
+06-23 05:14:09;OTApplication;OTApplication newVersionStr: 
+06-23 05:14:09;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:14:10;DownloadService;dzc DownloadService onCreate
+06-23 05:14:10;DownloadService;dzc DownloadService onStartCommand
+06-23 05:14:10;DownloadService;dzc DownloadService onStart
+06-23 05:22:14;OTApplication;application is deep:false
+06-23 05:22:14;OTApplication;app version name = [4.0_151015_16]
+06-23 05:22:14;OTApplication;OTApplication newVersionStr: 
+06-23 05:22:14;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:22:14;DownloadService;dzc DownloadService onCreate
+06-23 05:22:14;DownloadService;dzc DownloadService onStartCommand
+06-23 05:22:14;DownloadService;dzc DownloadService onStart
+06-23 05:25:54;OTApplication;application is deep:false
+06-23 05:25:54;OTApplication;app version name = [4.0_151015_16]
+06-23 05:25:54;OTApplication;OTApplication newVersionStr: 
+06-23 05:25:54;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:25:56;DownloadService;dzc DownloadService onCreate
+06-23 05:25:56;DownloadService;dzc DownloadService onStartCommand
+06-23 05:25:56;DownloadService;dzc DownloadService onStart
+06-23 05:27:32;OTApplication;application is deep:false
+06-23 05:27:32;OTApplication;app version name = [4.0_151015_16]
+06-23 05:27:33;OTApplication;OTApplication newVersionStr: 
+06-23 05:27:33;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:27:40;DownloadService;dzc DownloadService onCreate
+06-23 05:27:40;DownloadService;dzc DownloadService onStartCommand
+06-23 05:27:40;DownloadService;dzc DownloadService onStart
+06-23 05:33:42;OTApplication;application is deep:false
+06-23 05:33:42;OTApplication;app version name = [4.0_151015_16]
+06-23 05:33:43;OTApplication;OTApplication newVersionStr: 
+06-23 05:33:43;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:33:44;DownloadService;dzc DownloadService onCreate
+06-23 05:33:45;DownloadService;dzc DownloadService onStartCommand
+06-23 05:33:45;DownloadService;dzc DownloadService onStart
+06-23 05:36:08;OTApplication;application is deep:false
+06-23 05:36:08;OTApplication;app version name = [4.0_151015_16]
+06-23 05:36:08;OTApplication;OTApplication newVersionStr: 
+06-23 05:36:08;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 05:36:08;DownloadService;dzc DownloadService onCreate
+06-23 05:36:08;DownloadService;dzc DownloadService onStartCommand
+06-23 05:36:08;DownloadService;dzc DownloadService onStart
+06-23 06:06:35;OTApplication;application is deep:false
+06-23 06:06:35;OTApplication;app version name = [4.0_151015_16]
+06-23 06:06:35;OTApplication;OTApplication newVersionStr: 
+06-23 06:06:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:06:36;DownloadService;dzc DownloadService onCreate
+06-23 06:06:36;DownloadService;dzc DownloadService onStartCommand
+06-23 06:06:36;DownloadService;dzc DownloadService onStart
+06-23 06:08:43;OTApplication;application is deep:false
+06-23 06:08:43;OTApplication;app version name = [4.0_151015_16]
+06-23 06:08:44;OTApplication;OTApplication newVersionStr: 
+06-23 06:08:44;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:08:44;DownloadService;dzc DownloadService onCreate
+06-23 06:08:45;DownloadService;dzc DownloadService onStartCommand
+06-23 06:08:45;DownloadService;dzc DownloadService onStart
+06-23 06:10:04;OTApplication;application is deep:false
+06-23 06:10:04;OTApplication;app version name = [4.0_151015_16]
+06-23 06:10:04;OTApplication;OTApplication newVersionStr: 
+06-23 06:10:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:10:04;DownloadService;dzc DownloadService onCreate
+06-23 06:10:05;DownloadService;dzc DownloadService onStartCommand
+06-23 06:10:05;DownloadService;dzc DownloadService onStart
+06-23 06:15:24;OTApplication;application is deep:false
+06-23 06:15:24;OTApplication;app version name = [4.0_151015_16]
+06-23 06:15:24;OTApplication;OTApplication newVersionStr: 
+06-23 06:15:24;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:15:24;DownloadService;dzc DownloadService onCreate
+06-23 06:15:24;DownloadService;dzc DownloadService onStartCommand
+06-23 06:15:24;DownloadService;dzc DownloadService onStart
+06-23 06:22:48;OTApplication;application is deep:false
+06-23 06:22:48;OTApplication;app version name = [4.0_151015_16]
+06-23 06:22:49;OTApplication;OTApplication newVersionStr: 
+06-23 06:22:49;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:22:49;DownloadService;dzc DownloadService onCreate
+06-23 06:22:49;DownloadService;dzc DownloadService onStartCommand
+06-23 06:22:49;DownloadService;dzc DownloadService onStart
+06-23 06:24:03;OTApplication;application is deep:false
+06-23 06:24:03;OTApplication;app version name = [4.0_151015_16]
+06-23 06:24:03;OTApplication;OTApplication newVersionStr: 
+06-23 06:24:03;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:24:03;DownloadService;dzc DownloadService onCreate
+06-23 06:24:03;DownloadService;dzc DownloadService onStartCommand
+06-23 06:24:03;DownloadService;dzc DownloadService onStart
+06-23 06:24:12;OTApplication;application is deep:false
+06-23 06:24:12;OTApplication;app version name = [4.0_151015_16]
+06-23 06:24:12;OTApplication;OTApplication newVersionStr: 
+06-23 06:24:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:24:12;DownloadService;dzc DownloadService onCreate
+06-23 06:24:12;DownloadService;dzc DownloadService onStartCommand
+06-23 06:24:12;DownloadService;dzc DownloadService onStart
+06-23 06:24:32;OTApplication;application is deep:false
+06-23 06:24:32;OTApplication;app version name = [4.0_151015_16]
+06-23 06:24:32;OTApplication;OTApplication newVersionStr: 
+06-23 06:24:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:24:32;DownloadService;dzc DownloadService onCreate
+06-23 06:24:32;DownloadService;dzc DownloadService onStartCommand
+06-23 06:24:32;DownloadService;dzc DownloadService onStart
+06-23 06:25:53;OTApplication;application is deep:false
+06-23 06:25:53;OTApplication;app version name = [4.0_151015_16]
+06-23 06:25:53;OTApplication;OTApplication newVersionStr: 
+06-23 06:25:53;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:25:53;DownloadService;dzc DownloadService onCreate
+06-23 06:25:53;DownloadService;dzc DownloadService onStartCommand
+06-23 06:25:53;DownloadService;dzc DownloadService onStart
+06-23 06:31:07;OTApplication;application is deep:false
+06-23 06:31:07;OTApplication;app version name = [4.0_151015_16]
+06-23 06:31:07;OTApplication;OTApplication newVersionStr: 
+06-23 06:31:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:31:07;DownloadService;dzc DownloadService onCreate
+06-23 06:31:07;DownloadService;dzc DownloadService onStartCommand
+06-23 06:31:07;DownloadService;dzc DownloadService onStart
+06-23 06:44:17;OTApplication;application is deep:false
+06-23 06:44:17;OTApplication;app version name = [4.0_151015_16]
+06-23 06:44:17;OTApplication;OTApplication newVersionStr: 
+06-23 06:44:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:44:17;DownloadService;dzc DownloadService onCreate
+06-23 06:44:17;DownloadService;dzc DownloadService onStartCommand
+06-23 06:44:17;DownloadService;dzc DownloadService onStart
+06-23 06:44:25;OTApplication;application is deep:false
+06-23 06:44:25;OTApplication;app version name = [4.0_151015_16]
+06-23 06:44:25;OTApplication;OTApplication newVersionStr: 
+06-23 06:44:25;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:44:25;DownloadService;dzc DownloadService onCreate
+06-23 06:44:25;DownloadService;dzc DownloadService onStartCommand
+06-23 06:44:25;DownloadService;dzc DownloadService onStart
+06-23 06:51:35;OTApplication;application is deep:false
+06-23 06:51:35;OTApplication;app version name = [4.0_151015_16]
+06-23 06:51:35;OTApplication;OTApplication newVersionStr: 
+06-23 06:51:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:51:35;DownloadService;dzc DownloadService onCreate
+06-23 06:51:35;DownloadService;dzc DownloadService onStartCommand
+06-23 06:51:35;DownloadService;dzc DownloadService onStart
+06-23 06:51:39;OTApplication;application is deep:false
+06-23 06:51:39;OTApplication;app version name = [4.0_151015_16]
+06-23 06:51:39;OTApplication;OTApplication newVersionStr: 
+06-23 06:51:39;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:51:39;DownloadService;dzc DownloadService onCreate
+06-23 06:51:39;DownloadService;dzc DownloadService onStartCommand
+06-23 06:51:39;DownloadService;dzc DownloadService onStart
+06-23 06:52:43;OTApplication;application is deep:false
+06-23 06:52:43;OTApplication;app version name = [4.0_151015_16]
+06-23 06:52:43;OTApplication;OTApplication newVersionStr: 
+06-23 06:52:43;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:52:45;DownloadService;dzc DownloadService onCreate
+06-23 06:53:56;OTApplication;application is deep:false
+06-23 06:53:56;OTApplication;app version name = [4.0_151015_16]
+06-23 06:53:56;OTApplication;OTApplication newVersionStr: 
+06-23 06:53:56;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:53:58;DownloadService;dzc DownloadService onCreate
+06-23 06:54:00;DownloadService;dzc DownloadService onStartCommand
+06-23 06:54:00;DownloadService;dzc DownloadService onStart
+06-23 06:58:17;OTApplication;application is deep:false
+06-23 06:58:17;OTApplication;app version name = [4.0_151015_16]
+06-23 06:58:17;OTApplication;OTApplication newVersionStr: 
+06-23 06:58:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 06:58:18;DownloadService;dzc DownloadService onCreate
+06-23 06:58:18;DownloadService;dzc DownloadService onStartCommand
+06-23 06:58:18;DownloadService;dzc DownloadService onStart
+06-23 07:01:21;OTApplication;application is deep:false
+06-23 07:01:21;OTApplication;app version name = [4.0_151015_16]
+06-23 07:01:21;OTApplication;OTApplication newVersionStr: 
+06-23 07:01:21;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:01:21;DownloadService;dzc DownloadService onCreate
+06-23 07:01:21;DownloadService;dzc DownloadService onStartCommand
+06-23 07:01:21;DownloadService;dzc DownloadService onStart
+06-23 07:01:23;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 07:01:23;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 07:01:23;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 07:01:23;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 07:01:23;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 07:01:23;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 07:01:23;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 07:01:23;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 07:01:23;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 07:01:23;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 07:01:23;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 07:01:23;DownloadService;dzc DownloadService onStartCommand
+06-23 07:01:23;DownloadService;dzc DownloadService onStart
+06-23 07:01:23;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 07:01:23;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 07:05:00;OTApplication;application is deep:false
+06-23 07:05:00;OTApplication;app version name = [4.0_151015_16]
+06-23 07:05:00;OTApplication;OTApplication newVersionStr: 
+06-23 07:05:00;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:05:00;DownloadService;dzc DownloadService onCreate
+06-23 07:05:00;DownloadService;dzc DownloadService onStartCommand
+06-23 07:05:00;DownloadService;dzc DownloadService onStart
+06-23 07:05:07;OTApplication;application is deep:false
+06-23 07:05:07;OTApplication;app version name = [4.0_151015_16]
+06-23 07:05:07;OTApplication;OTApplication newVersionStr: 
+06-23 07:05:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:05:07;DownloadService;dzc DownloadService onCreate
+06-23 07:05:07;DownloadService;dzc DownloadService onStartCommand
+06-23 07:05:07;DownloadService;dzc DownloadService onStart
+06-23 07:05:40;OTApplication;application is deep:false
+06-23 07:05:40;OTApplication;app version name = [4.0_151015_16]
+06-23 07:05:40;OTApplication;OTApplication newVersionStr: 
+06-23 07:05:40;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:05:41;DownloadService;dzc DownloadService onCreate
+06-23 07:05:41;DownloadService;dzc DownloadService onStartCommand
+06-23 07:05:41;DownloadService;dzc DownloadService onStart
+06-23 07:08:04;OTApplication;application is deep:false
+06-23 07:08:04;OTApplication;app version name = [4.0_151015_16]
+06-23 07:08:04;OTApplication;OTApplication newVersionStr: 
+06-23 07:08:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:08:04;DownloadService;dzc DownloadService onCreate
+06-23 07:08:04;DownloadService;dzc DownloadService onStartCommand
+06-23 07:08:04;DownloadService;dzc DownloadService onStart
+06-23 07:18:42;OTApplication;application is deep:false
+06-23 07:18:42;OTApplication;app version name = [4.0_151015_16]
+06-23 07:18:42;OTApplication;OTApplication newVersionStr: 
+06-23 07:18:42;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:18:42;DownloadService;dzc DownloadService onCreate
+06-23 07:18:42;DownloadService;dzc DownloadService onStartCommand
+06-23 07:18:42;DownloadService;dzc DownloadService onStart
+06-23 07:19:04;OTApplication;application is deep:false
+06-23 07:19:04;OTApplication;app version name = [4.0_151015_16]
+06-23 07:19:04;OTApplication;OTApplication newVersionStr: 
+06-23 07:19:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:19:04;DownloadService;dzc DownloadService onCreate
+06-23 07:19:04;DownloadService;dzc DownloadService onStartCommand
+06-23 07:19:04;DownloadService;dzc DownloadService onStart
+06-23 07:19:24;OTApplication;application is deep:false
+06-23 07:19:24;OTApplication;app version name = [4.0_151015_16]
+06-23 07:19:24;OTApplication;OTApplication newVersionStr: 
+06-23 07:19:24;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:19:24;DownloadService;dzc DownloadService onCreate
+06-23 07:19:24;DownloadService;dzc DownloadService onStartCommand
+06-23 07:19:24;DownloadService;dzc DownloadService onStart
+06-23 07:21:07;OTApplication;application is deep:false
+06-23 07:21:07;OTApplication;app version name = [4.0_151015_16]
+06-23 07:21:07;OTApplication;OTApplication newVersionStr: 
+06-23 07:21:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:21:07;DownloadService;dzc DownloadService onCreate
+06-23 07:21:07;DownloadService;dzc DownloadService onStartCommand
+06-23 07:21:07;DownloadService;dzc DownloadService onStart
+06-23 07:24:44;OTApplication;application is deep:false
+06-23 07:24:44;OTApplication;app version name = [4.0_151015_16]
+06-23 07:24:44;OTApplication;OTApplication newVersionStr: 
+06-23 07:24:44;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:24:44;DownloadService;dzc DownloadService onCreate
+06-23 07:24:44;DownloadService;dzc DownloadService onStartCommand
+06-23 07:24:44;DownloadService;dzc DownloadService onStart
+06-23 07:25:08;OTApplication;application is deep:false
+06-23 07:25:08;OTApplication;app version name = [4.0_151015_16]
+06-23 07:25:08;OTApplication;OTApplication newVersionStr: 
+06-23 07:25:08;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:25:08;DownloadService;dzc DownloadService onCreate
+06-23 07:25:08;DownloadService;dzc DownloadService onStartCommand
+06-23 07:25:08;DownloadService;dzc DownloadService onStart
+06-23 07:26:44;OTApplication;application is deep:false
+06-23 07:26:44;OTApplication;app version name = [4.0_151015_16]
+06-23 07:26:44;OTApplication;OTApplication newVersionStr: 
+06-23 07:26:44;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:26:44;DownloadService;dzc DownloadService onCreate
+06-23 07:26:44;DownloadService;dzc DownloadService onStartCommand
+06-23 07:26:44;DownloadService;dzc DownloadService onStart
+06-23 07:30:28;OTApplication;application is deep:false
+06-23 07:30:28;OTApplication;app version name = [4.0_151015_16]
+06-23 07:30:28;OTApplication;OTApplication newVersionStr: 
+06-23 07:30:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:30:29;DownloadService;dzc DownloadService onCreate
+06-23 07:30:29;DownloadService;dzc DownloadService onStartCommand
+06-23 07:30:29;DownloadService;dzc DownloadService onStart
+06-23 07:45:30;OTApplication;application is deep:false
+06-23 07:45:30;OTApplication;app version name = [4.0_151015_16]
+06-23 07:45:30;OTApplication;OTApplication newVersionStr: 
+06-23 07:45:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:45:30;DownloadService;dzc DownloadService onCreate
+06-23 07:45:30;DownloadService;dzc DownloadService onStartCommand
+06-23 07:45:30;DownloadService;dzc DownloadService onStart
+06-23 07:53:26;OTApplication;application is deep:false
+06-23 07:53:26;OTApplication;app version name = [4.0_151015_16]
+06-23 07:53:26;OTApplication;OTApplication newVersionStr: 
+06-23 07:53:26;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:53:26;DownloadService;dzc DownloadService onCreate
+06-23 07:53:26;DownloadService;dzc DownloadService onStartCommand
+06-23 07:53:26;DownloadService;dzc DownloadService onStart
+06-23 07:54:17;OTApplication;application is deep:false
+06-23 07:54:17;OTApplication;app version name = [4.0_151015_16]
+06-23 07:54:17;OTApplication;OTApplication newVersionStr: 
+06-23 07:54:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:54:18;DownloadService;dzc DownloadService onCreate
+06-23 07:54:19;DownloadService;dzc DownloadService onStartCommand
+06-23 07:54:19;DownloadService;dzc DownloadService onStart
+06-23 07:55:56;OTApplication;application is deep:false
+06-23 07:55:56;OTApplication;app version name = [4.0_151015_16]
+06-23 07:55:56;OTApplication;OTApplication newVersionStr: 
+06-23 07:55:56;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:55:56;DownloadService;dzc DownloadService onCreate
+06-23 07:55:56;DownloadService;dzc DownloadService onStartCommand
+06-23 07:55:56;DownloadService;dzc DownloadService onStart
+06-23 07:58:06;OTApplication;application is deep:false
+06-23 07:58:06;OTApplication;app version name = [4.0_151015_16]
+06-23 07:58:06;OTApplication;OTApplication newVersionStr: 
+06-23 07:58:06;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:58:06;DownloadService;dzc DownloadService onCreate
+06-23 07:58:07;DownloadService;dzc DownloadService onStartCommand
+06-23 07:58:07;DownloadService;dzc DownloadService onStart
+06-23 07:59:19;OTApplication;application is deep:false
+06-23 07:59:19;OTApplication;app version name = [4.0_151015_16]
+06-23 07:59:19;OTApplication;OTApplication newVersionStr: 
+06-23 07:59:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 07:59:23;DownloadService;dzc DownloadService onCreate
+06-23 07:59:24;DownloadService;dzc DownloadService onStartCommand
+06-23 07:59:24;DownloadService;dzc DownloadService onStart
+06-23 08:02:36;OTApplication;application is deep:false
+06-23 08:02:36;OTApplication;app version name = [4.0_151015_16]
+06-23 08:02:36;OTApplication;OTApplication newVersionStr: 
+06-23 08:02:36;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:02:36;DownloadService;dzc DownloadService onCreate
+06-23 08:02:36;DownloadService;dzc DownloadService onStartCommand
+06-23 08:02:36;DownloadService;dzc DownloadService onStart
+06-23 08:21:35;OTApplication;application is deep:false
+06-23 08:21:35;OTApplication;app version name = [4.0_151015_16]
+06-23 08:21:36;OTApplication;OTApplication newVersionStr: 
+06-23 08:21:36;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:21:45;DownloadService;dzc DownloadService onCreate
+06-23 08:21:46;DownloadService;dzc DownloadService onStartCommand
+06-23 08:21:46;DownloadService;dzc DownloadService onStart
+06-23 08:22:54;OTApplication;application is deep:false
+06-23 08:22:54;OTApplication;app version name = [4.0_151015_16]
+06-23 08:22:54;OTApplication;OTApplication newVersionStr: 
+06-23 08:22:54;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:22:54;DownloadService;dzc DownloadService onCreate
+06-23 08:22:54;DownloadService;dzc DownloadService onStartCommand
+06-23 08:22:54;DownloadService;dzc DownloadService onStart
+06-23 08:27:44;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 08:27:52;OTApplication;application is deep:false
+06-23 08:27:52;OTApplication;app version name = [4.0_151015_16]
+06-23 08:27:52;OTApplication;OTApplication newVersionStr: 
+06-23 08:27:52;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:27:52;DownloadService;dzc DownloadService onCreate
+06-23 08:27:52;DownloadService;dzc DownloadService onStartCommand
+06-23 08:27:52;DownloadService;dzc DownloadService onStart
+06-23 08:29:29;OTApplication;application is deep:false
+06-23 08:29:29;OTApplication;app version name = [4.0_151015_16]
+06-23 08:29:29;OTApplication;OTApplication newVersionStr: 
+06-23 08:29:29;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:29:29;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 08:29:29;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 08:29:29;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 08:29:29;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 08:29:29;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 08:29:29;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 08:29:29;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 08:29:29;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 08:29:29;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 08:29:29;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 08:29:29;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 08:29:29;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 08:29:29;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 08:29:29;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 08:29:30;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 08:29:30;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 08:29:30;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 08:29:30;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 08:29:30;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 08:29:30;DownloadService;dzc DownloadService onCreate
+06-23 08:29:30;DownloadService;dzc DownloadService onStartCommand
+06-23 08:29:30;DownloadService;dzc DownloadService onStart
+06-23 08:29:30;DownloadService;dzc DownloadService onStartCommand
+06-23 08:29:30;DownloadService;dzc DownloadService onStart
+06-23 08:29:30;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 08:29:30;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 08:34:08;OTApplication;application is deep:false
+06-23 08:34:08;OTApplication;app version name = [4.0_151015_16]
+06-23 08:34:08;OTApplication;OTApplication newVersionStr: 
+06-23 08:34:08;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:34:08;DownloadService;dzc DownloadService onCreate
+06-23 08:34:08;DownloadService;dzc DownloadService onStartCommand
+06-23 08:34:08;DownloadService;dzc DownloadService onStart
+06-23 08:35:12;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 08:35:12;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 08:35:12;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 08:35:12;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 08:35:12;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 08:35:12;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 08:35:13;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 08:35:13;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 08:35:13;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 08:35:13;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 08:35:13;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 08:35:13;DownloadService;dzc DownloadService onStartCommand
+06-23 08:35:13;DownloadService;dzc DownloadService onStart
+06-23 08:35:13;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 08:35:13;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 08:35:52;OTApplication;application is deep:false
+06-23 08:35:52;OTApplication;app version name = [4.0_151015_16]
+06-23 08:35:54;OTApplication;OTApplication newVersionStr: 
+06-23 08:35:54;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:35:59;DownloadService;dzc DownloadService onCreate
+06-23 08:36:00;DownloadService;dzc DownloadService onStartCommand
+06-23 08:36:00;DownloadService;dzc DownloadService onStart
+06-23 08:41:17;OTApplication;application is deep:false
+06-23 08:41:17;OTApplication;app version name = [4.0_151015_16]
+06-23 08:41:17;OTApplication;OTApplication newVersionStr: 
+06-23 08:41:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:41:17;DownloadService;dzc DownloadService onCreate
+06-23 08:41:17;DownloadService;dzc DownloadService onStartCommand
+06-23 08:41:17;DownloadService;dzc DownloadService onStart
+06-23 08:42:23;OTApplication;application is deep:false
+06-23 08:42:23;OTApplication;app version name = [4.0_151015_16]
+06-23 08:42:23;OTApplication;OTApplication newVersionStr: 
+06-23 08:42:23;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:42:24;DownloadService;dzc DownloadService onCreate
+06-23 08:42:24;DownloadService;dzc DownloadService onStartCommand
+06-23 08:42:24;DownloadService;dzc DownloadService onStart
+06-23 08:44:16;OTApplication;application is deep:false
+06-23 08:44:16;OTApplication;app version name = [4.0_151015_16]
+06-23 08:44:16;OTApplication;OTApplication newVersionStr: 
+06-23 08:44:16;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 08:44:16;DownloadService;dzc DownloadService onCreate
+06-23 08:44:16;DownloadService;dzc DownloadService onStartCommand
+06-23 08:44:16;DownloadService;dzc DownloadService onStart
+06-23 09:01:38;OTApplication;application is deep:false
+06-23 09:01:38;OTApplication;app version name = [4.0_151015_16]
+06-23 09:01:38;OTApplication;OTApplication newVersionStr: 
+06-23 09:01:38;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:01:38;DownloadService;dzc DownloadService onCreate
+06-23 09:01:38;DownloadService;dzc DownloadService onStartCommand
+06-23 09:01:38;DownloadService;dzc DownloadService onStart
+06-23 09:04:20;OTApplication;application is deep:false
+06-23 09:04:20;OTApplication;app version name = [4.0_151015_16]
+06-23 09:04:20;OTApplication;OTApplication newVersionStr: 
+06-23 09:04:20;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:04:21;DownloadService;dzc DownloadService onCreate
+06-23 09:04:21;DownloadService;dzc DownloadService onStartCommand
+06-23 09:04:21;DownloadService;dzc DownloadService onStart
+06-23 09:05:16;OTApplication;application is deep:false
+06-23 09:05:16;OTApplication;app version name = [4.0_151015_16]
+06-23 09:05:16;OTApplication;OTApplication newVersionStr: 
+06-23 09:05:16;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:05:16;DownloadService;dzc DownloadService onCreate
+06-23 09:05:16;DownloadService;dzc DownloadService onStartCommand
+06-23 09:05:16;DownloadService;dzc DownloadService onStart
+06-23 09:08:28;OTApplication;application is deep:false
+06-23 09:08:28;OTApplication;app version name = [4.0_151015_16]
+06-23 09:08:28;OTApplication;OTApplication newVersionStr: 
+06-23 09:08:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:08:28;DownloadService;dzc DownloadService onCreate
+06-23 09:08:28;DownloadService;dzc DownloadService onStartCommand
+06-23 09:08:28;DownloadService;dzc DownloadService onStart
+06-23 09:09:28;OTApplication;application is deep:false
+06-23 09:09:28;OTApplication;app version name = [4.0_151015_16]
+06-23 09:09:28;OTApplication;OTApplication newVersionStr: 
+06-23 09:09:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:09:28;DownloadService;dzc DownloadService onCreate
+06-23 09:09:28;DownloadService;dzc DownloadService onStartCommand
+06-23 09:09:28;DownloadService;dzc DownloadService onStart
+06-23 09:27:12;OTApplication;application is deep:false
+06-23 09:27:12;OTApplication;app version name = [4.0_151015_16]
+06-23 09:27:12;OTApplication;OTApplication newVersionStr: 
+06-23 09:27:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:27:13;DownloadService;dzc DownloadService onCreate
+06-23 09:27:13;DownloadService;dzc DownloadService onStartCommand
+06-23 09:27:13;DownloadService;dzc DownloadService onStart
+06-23 09:27:20;OTApplication;application is deep:false
+06-23 09:27:20;OTApplication;app version name = [4.0_151015_16]
+06-23 09:27:21;OTApplication;OTApplication newVersionStr: 
+06-23 09:27:21;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:27:21;DownloadService;dzc DownloadService onCreate
+06-23 09:27:21;DownloadService;dzc DownloadService onStartCommand
+06-23 09:27:21;DownloadService;dzc DownloadService onStart
+06-23 09:28:12;OTApplication;application is deep:false
+06-23 09:28:12;OTApplication;app version name = [4.0_151015_16]
+06-23 09:28:12;OTApplication;OTApplication newVersionStr: 
+06-23 09:28:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:28:16;DownloadService;dzc DownloadService onCreate
+06-23 09:28:16;DownloadService;dzc DownloadService onStartCommand
+06-23 09:28:16;DownloadService;dzc DownloadService onStart
+06-23 09:29:46;OTApplication;application is deep:false
+06-23 09:29:46;OTApplication;app version name = [4.0_151015_16]
+06-23 09:29:48;OTApplication;OTApplication newVersionStr: 
+06-23 09:29:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:29:50;DownloadService;dzc DownloadService onCreate
+06-23 09:29:51;DownloadService;dzc DownloadService onStartCommand
+06-23 09:29:52;DownloadService;dzc DownloadService onStart
+06-23 09:31:37;OTApplication;application is deep:false
+06-23 09:31:37;OTApplication;app version name = [4.0_151015_16]
+06-23 09:31:37;OTApplication;OTApplication newVersionStr: 
+06-23 09:31:37;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:31:38;DownloadService;dzc DownloadService onCreate
+06-23 09:31:38;DownloadService;dzc DownloadService onStartCommand
+06-23 09:31:38;DownloadService;dzc DownloadService onStart
+06-23 09:34:32;OTApplication;application is deep:false
+06-23 09:34:32;OTApplication;app version name = [4.0_151015_16]
+06-23 09:34:32;OTApplication;OTApplication newVersionStr: 
+06-23 09:34:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:34:33;DownloadService;dzc DownloadService onCreate
+06-23 09:34:33;DownloadService;dzc DownloadService onStartCommand
+06-23 09:34:33;DownloadService;dzc DownloadService onStart
+06-23 09:37:55;OTApplication;application is deep:false
+06-23 09:37:55;OTApplication;app version name = [4.0_151015_16]
+06-23 09:37:55;OTApplication;OTApplication newVersionStr: 
+06-23 09:37:55;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:37:56;DownloadService;dzc DownloadService onCreate
+06-23 09:37:56;DownloadService;dzc DownloadService onStartCommand
+06-23 09:37:56;DownloadService;dzc DownloadService onStart
+06-23 09:39:11;OTApplication;application is deep:false
+06-23 09:39:11;OTApplication;app version name = [4.0_151015_16]
+06-23 09:39:11;OTApplication;OTApplication newVersionStr: 
+06-23 09:39:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:39:11;DownloadService;dzc DownloadService onCreate
+06-23 09:39:11;DownloadService;dzc DownloadService onStartCommand
+06-23 09:39:11;DownloadService;dzc DownloadService onStart
+06-23 09:49:55;OTApplication;application is deep:false
+06-23 09:49:55;OTApplication;app version name = [4.0_151015_16]
+06-23 09:49:55;OTApplication;OTApplication newVersionStr: 
+06-23 09:49:55;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:49:56;DownloadService;dzc DownloadService onCreate
+06-23 09:49:56;DownloadService;dzc DownloadService onStartCommand
+06-23 09:49:56;DownloadService;dzc DownloadService onStart
+06-23 09:50:03;OTApplication;application is deep:false
+06-23 09:50:03;OTApplication;app version name = [4.0_151015_16]
+06-23 09:50:04;OTApplication;OTApplication newVersionStr: 
+06-23 09:50:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:50:05;DownloadService;dzc DownloadService onCreate
+06-23 09:50:06;DownloadService;dzc DownloadService onStartCommand
+06-23 09:50:06;DownloadService;dzc DownloadService onStart
+06-23 09:51:20;OTApplication;application is deep:false
+06-23 09:51:20;OTApplication;app version name = [4.0_151015_16]
+06-23 09:51:21;OTApplication;OTApplication newVersionStr: 
+06-23 09:51:21;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:51:26;DownloadService;dzc DownloadService onCreate
+06-23 09:51:27;DownloadService;dzc DownloadService onStartCommand
+06-23 09:51:27;DownloadService;dzc DownloadService onStart
+06-23 09:55:19;OTApplication;application is deep:false
+06-23 09:55:19;OTApplication;app version name = [4.0_151015_16]
+06-23 09:55:19;OTApplication;OTApplication newVersionStr: 
+06-23 09:55:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 09:55:21;DownloadService;dzc DownloadService onCreate
+06-23 09:55:22;DownloadService;dzc DownloadService onStartCommand
+06-23 09:55:22;DownloadService;dzc DownloadService onStart
+06-23 10:01:45;OTApplication;application is deep:false
+06-23 10:01:45;OTApplication;app version name = [4.0_151015_16]
+06-23 10:01:45;OTApplication;OTApplication newVersionStr: 
+06-23 10:01:45;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:01:45;DownloadService;dzc DownloadService onCreate
+06-23 10:01:45;DownloadService;dzc DownloadService onStartCommand
+06-23 10:01:45;DownloadService;dzc DownloadService onStart
+06-23 10:05:25;OTApplication;application is deep:false
+06-23 10:05:25;OTApplication;app version name = [4.0_151015_16]
+06-23 10:05:25;OTApplication;OTApplication newVersionStr: 
+06-23 10:05:25;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:05:25;DownloadService;dzc DownloadService onCreate
+06-23 10:05:25;DownloadService;dzc DownloadService onStartCommand
+06-23 10:05:25;DownloadService;dzc DownloadService onStart
+06-23 10:06:14;OTApplication;application is deep:false
+06-23 10:06:14;OTApplication;app version name = [4.0_151015_16]
+06-23 10:06:15;OTApplication;OTApplication newVersionStr: 
+06-23 10:06:15;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:06:16;DownloadService;dzc DownloadService onCreate
+06-23 10:06:16;DownloadService;dzc DownloadService onStartCommand
+06-23 10:06:16;DownloadService;dzc DownloadService onStart
+06-23 10:07:19;OTApplication;application is deep:false
+06-23 10:07:19;OTApplication;app version name = [4.0_151015_16]
+06-23 10:07:19;OTApplication;OTApplication newVersionStr: 
+06-23 10:07:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:07:20;DownloadService;dzc DownloadService onCreate
+06-23 10:07:20;DownloadService;dzc DownloadService onStartCommand
+06-23 10:07:20;DownloadService;dzc DownloadService onStart
+06-23 10:08:18;OTApplication;application is deep:false
+06-23 10:08:19;OTApplication;app version name = [4.0_151015_16]
+06-23 10:08:19;OTApplication;OTApplication newVersionStr: 
+06-23 10:08:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:08:19;DownloadService;dzc DownloadService onCreate
+06-23 10:08:19;DownloadService;dzc DownloadService onStartCommand
+06-23 10:08:19;DownloadService;dzc DownloadService onStart
+06-23 10:23:39;OTApplication;application is deep:false
+06-23 10:23:39;OTApplication;app version name = [4.0_151015_16]
+06-23 10:23:39;OTApplication;OTApplication newVersionStr: 
+06-23 10:23:39;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:23:39;DownloadService;dzc DownloadService onCreate
+06-23 10:23:39;DownloadService;dzc DownloadService onStartCommand
+06-23 10:23:39;DownloadService;dzc DownloadService onStart
+06-23 10:29:05;OTApplication;application is deep:false
+06-23 10:29:05;OTApplication;app version name = [4.0_151015_16]
+06-23 10:29:05;OTApplication;OTApplication newVersionStr: 
+06-23 10:29:05;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:29:05;DownloadService;dzc DownloadService onCreate
+06-23 10:29:06;DownloadService;dzc DownloadService onStartCommand
+06-23 10:29:06;DownloadService;dzc DownloadService onStart
+06-23 10:29:20;OTApplication;application is deep:false
+06-23 10:29:20;OTApplication;app version name = [4.0_151015_16]
+06-23 10:29:20;OTApplication;OTApplication newVersionStr: 
+06-23 10:29:20;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:29:20;DownloadService;dzc DownloadService onCreate
+06-23 10:29:21;DownloadService;dzc DownloadService onStartCommand
+06-23 10:29:21;DownloadService;dzc DownloadService onStart
+06-23 10:30:07;OTApplication;application is deep:false
+06-23 10:30:07;OTApplication;app version name = [4.0_151015_16]
+06-23 10:30:07;OTApplication;OTApplication newVersionStr: 
+06-23 10:30:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:30:07;DownloadService;dzc DownloadService onCreate
+06-23 10:30:07;DownloadService;dzc DownloadService onStartCommand
+06-23 10:30:07;DownloadService;dzc DownloadService onStart
+06-23 10:32:33;OTApplication;application is deep:false
+06-23 10:32:33;OTApplication;app version name = [4.0_151015_16]
+06-23 10:32:33;OTApplication;OTApplication newVersionStr: 
+06-23 10:32:33;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:32:34;DownloadService;dzc DownloadService onCreate
+06-23 10:32:34;DownloadService;dzc DownloadService onStartCommand
+06-23 10:32:34;DownloadService;dzc DownloadService onStart
+06-23 10:33:23;OTApplication;application is deep:false
+06-23 10:33:23;OTApplication;app version name = [4.0_151015_16]
+06-23 10:33:23;OTApplication;OTApplication newVersionStr: 
+06-23 10:33:23;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:33:23;DownloadService;dzc DownloadService onCreate
+06-23 10:33:23;DownloadService;dzc DownloadService onStartCommand
+06-23 10:33:23;DownloadService;dzc DownloadService onStart
+06-23 10:33:42;OTApplication;application is deep:false
+06-23 10:33:42;OTApplication;app version name = [4.0_151015_16]
+06-23 10:33:43;OTApplication;OTApplication newVersionStr: 
+06-23 10:33:43;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:33:43;DownloadService;dzc DownloadService onCreate
+06-23 10:33:43;DownloadService;dzc DownloadService onStartCommand
+06-23 10:33:43;DownloadService;dzc DownloadService onStart
+06-23 10:35:01;OTApplication;application is deep:false
+06-23 10:35:01;OTApplication;app version name = [4.0_151015_16]
+06-23 10:35:01;OTApplication;OTApplication newVersionStr: 
+06-23 10:35:01;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:35:01;DownloadService;dzc DownloadService onCreate
+06-23 10:35:01;DownloadService;dzc DownloadService onStartCommand
+06-23 10:35:01;DownloadService;dzc DownloadService onStart
+06-23 10:39:28;OTApplication;application is deep:false
+06-23 10:39:28;OTApplication;app version name = [4.0_151015_16]
+06-23 10:39:28;OTApplication;OTApplication newVersionStr: 
+06-23 10:39:28;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:39:28;DownloadService;dzc DownloadService onCreate
+06-23 10:39:28;DownloadService;dzc DownloadService onStartCommand
+06-23 10:39:28;DownloadService;dzc DownloadService onStart
+06-23 10:47:10;OTApplication;application is deep:false
+06-23 10:47:10;OTApplication;app version name = [4.0_151015_16]
+06-23 10:47:10;OTApplication;OTApplication newVersionStr: 
+06-23 10:47:10;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:47:10;DownloadService;dzc DownloadService onCreate
+06-23 10:47:11;DownloadService;dzc DownloadService onStartCommand
+06-23 10:47:12;DownloadService;dzc DownloadService onStart
+06-23 10:47:40;OTApplication;application is deep:false
+06-23 10:47:40;OTApplication;app version name = [4.0_151015_16]
+06-23 10:47:40;OTApplication;OTApplication newVersionStr: 
+06-23 10:47:40;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:47:41;DownloadService;dzc DownloadService onCreate
+06-23 10:47:41;DownloadService;dzc DownloadService onStartCommand
+06-23 10:47:41;DownloadService;dzc DownloadService onStart
+06-23 10:48:50;OTApplication;application is deep:false
+06-23 10:48:50;OTApplication;app version name = [4.0_151015_16]
+06-23 10:48:50;OTApplication;OTApplication newVersionStr: 
+06-23 10:48:50;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:48:51;DownloadService;dzc DownloadService onCreate
+06-23 10:48:51;DownloadService;dzc DownloadService onStartCommand
+06-23 10:48:51;DownloadService;dzc DownloadService onStart
+06-23 10:49:36;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 10:49:36;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 10:49:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:36;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 10:49:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag reach next query because over section
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:01-53-44
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag start query service when connect to wifi
+06-23 10:49:36;UpdateReceiver;dzc UpdateReceiver startSectionQuery: no need to kill
+06-23 10:49:36;;do query service
+06-23 10:49:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:36;QueryService;QueryService is cmcc and not query:false
+06-23 10:49:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:36;queryNewVersionTag;queryNewVersionTag onHandleIntent:start 启动检查更新服务
+06-23 10:49:36;QueryService;QueryService source is:dayWifi
+06-23 10:49:36;SystemPropertyUtils;SystemPropertyUtils is weekly test rom:false
+06-23 10:49:36;jimmy;queryUpdateVesion4 json string = {"version":"1","mobile":"1201","ota_version":"1201EX-A_11.A.17_INT_017_201903120851","imei":"861890035119652","mode":"0","type":"0","language":"vi","beta":"0"}
+06-23 10:49:51;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 10:49:51;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 10:49:51;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 10:49:51;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 10:49:51;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 10:49:51;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:51;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 10:49:51;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:49:51;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 10:49:51;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 10:49:51;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 10:49:51;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 10:49:51;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 10:49:51;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 10:49:51;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 10:49:51;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 10:49:51;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 10:49:51;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 10:49:51;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 10:49:51;DownloadService;dzc DownloadService onStartCommand
+06-23 10:49:51;DownloadService;dzc DownloadService onStart
+06-23 10:49:51;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 10:49:51;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 10:49:51;queryNewVersionTag;queryNewVersionTag 检查更新服务端返回值:304
+06-23 10:49:51;QueryService;onHandleIntent: there is no newer upgrade!!!
+06-23 10:50:08;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 10:50:08;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 10:50:08;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 10:50:08;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 10:50:08;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 10:50:08;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:50:08;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 10:50:08;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 10:50:08;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 10:50:08;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 10:50:08;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 10:50:08;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 10:50:08;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 10:50:08;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 10:50:08;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 10:50:08;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 10:50:08;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 10:50:08;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 10:50:08;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 10:50:08;DownloadService;dzc DownloadService onStartCommand
+06-23 10:50:08;DownloadService;dzc DownloadService onStart
+06-23 10:50:08;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 10:50:08;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 10:51:52;OTApplication;application is deep:false
+06-23 10:51:52;OTApplication;app version name = [4.0_151015_16]
+06-23 10:51:52;OTApplication;OTApplication newVersionStr: 
+06-23 10:51:52;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:51:53;DownloadService;dzc DownloadService onCreate
+06-23 10:51:53;DownloadService;dzc DownloadService onStartCommand
+06-23 10:51:53;DownloadService;dzc DownloadService onStart
+06-23 10:53:04;OTApplication;application is deep:false
+06-23 10:53:04;OTApplication;app version name = [4.0_151015_16]
+06-23 10:53:04;OTApplication;OTApplication newVersionStr: 
+06-23 10:53:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:53:06;DownloadService;dzc DownloadService onCreate
+06-23 10:53:07;DownloadService;dzc DownloadService onStartCommand
+06-23 10:53:07;DownloadService;dzc DownloadService onStart
+06-23 10:57:06;OTApplication;application is deep:false
+06-23 10:57:06;OTApplication;app version name = [4.0_151015_16]
+06-23 10:57:07;OTApplication;OTApplication newVersionStr: 
+06-23 10:57:07;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 10:57:07;DownloadService;dzc DownloadService onCreate
+06-23 10:57:08;DownloadService;dzc DownloadService onStartCommand
+06-23 10:57:08;DownloadService;dzc DownloadService onStart
+06-23 11:05:35;OTApplication;application is deep:false
+06-23 11:05:35;OTApplication;app version name = [4.0_151015_16]
+06-23 11:05:35;OTApplication;OTApplication newVersionStr: 
+06-23 11:05:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 11:05:35;DownloadService;dzc DownloadService onCreate
+06-23 11:05:35;DownloadService;dzc DownloadService onStartCommand
+06-23 11:05:35;DownloadService;dzc DownloadService onStart
+06-23 11:26:50;OTApplication;application is deep:false
+06-23 11:26:50;OTApplication;app version name = [4.0_151015_16]
+06-23 11:26:51;OTApplication;OTApplication newVersionStr: 
+06-23 11:26:51;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 11:27:20;OTApplication;application is deep:false
+06-23 11:27:20;OTApplication;app version name = [4.0_151015_16]
+06-23 11:27:20;OTApplication;OTApplication newVersionStr: 
+06-23 11:27:20;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 11:27:20;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 11:27:20;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 11:27:20;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 11:27:20;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 11:27:20;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 11:27:20;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 11:27:20;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 11:27:20;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 11:27:20;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 11:27:20;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 11:27:20;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 11:27:20;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 11:27:20;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 11:27:20;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 11:27:24;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 11:27:24;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 11:27:24;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 11:27:24;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 11:27:24;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 11:27:24;DownloadService;dzc DownloadService onCreate
+06-23 11:27:24;DownloadService;dzc DownloadService onStartCommand
+06-23 11:27:24;DownloadService;dzc DownloadService onStart
+06-23 11:27:24;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 11:27:24;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 11:27:56;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.BOOT_COMPLETED
+06-23 11:27:56;jimmy;changeStr inter: 1201EX-A_11_190312
+06-23 11:27:56;queryNewVersionTag;queryNewVersionTag  realTime = OtaStrategy.QueryStrategy.AUTO_UPDATE_INTERVAL
+06-23 11:27:58;OTApplication;application is deep:false
+06-23 11:27:58;OTApplication;app version name = [4.0_151015_16]
+06-23 11:27:58;OTApplication;OTApplication newVersionStr: 
+06-23 11:27:58;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 11:27:58;DownloadService;dzc DownloadService onCreate
+06-23 11:27:58;DownloadService;dzc DownloadService onStartCommand
+06-23 11:27:58;DownloadService;dzc DownloadService onStart
+06-23 11:41:12;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 11:41:12;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 11:41:12;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 11:41:12;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 11:41:12;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 11:41:12;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 11:41:14;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 11:41:14;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 11:41:14;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 11:41:14;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 11:41:14;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 11:41:14;DownloadService;dzc DownloadService onStartCommand
+06-23 11:41:14;DownloadService;dzc DownloadService onStart
+06-23 11:41:14;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 11:41:14;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 11:42:18;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 11:42:18;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 11:42:18;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 11:42:18;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 11:42:18;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 11:42:18;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 11:42:19;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 11:42:19;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 11:42:19;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 11:42:19;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 11:42:19;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 11:42:19;DownloadService;dzc DownloadService onStartCommand
+06-23 11:42:19;DownloadService;dzc DownloadService onStart
+06-23 11:42:19;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 11:42:19;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 11:56:18;OTApplication;application is deep:false
+06-23 11:56:18;OTApplication;app version name = [4.0_151015_16]
+06-23 11:56:18;OTApplication;OTApplication newVersionStr: 
+06-23 11:56:18;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 11:56:20;DownloadService;dzc DownloadService onCreate
+06-23 11:56:20;DownloadService;dzc DownloadService onStartCommand
+06-23 11:56:20;DownloadService;dzc DownloadService onStart
+06-23 12:00:33;OTApplication;application is deep:false
+06-23 12:00:33;OTApplication;app version name = [4.0_151015_16]
+06-23 12:00:33;OTApplication;OTApplication newVersionStr: 
+06-23 12:00:33;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:00:35;DownloadService;dzc DownloadService onCreate
+06-23 12:00:36;DownloadService;dzc DownloadService onStartCommand
+06-23 12:00:36;DownloadService;dzc DownloadService onStart
+06-23 12:14:00;OTApplication;application is deep:false
+06-23 12:14:00;OTApplication;app version name = [4.0_151015_16]
+06-23 12:14:00;OTApplication;OTApplication newVersionStr: 
+06-23 12:14:00;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:14:00;DownloadService;dzc DownloadService onCreate
+06-23 12:14:00;DownloadService;dzc DownloadService onStartCommand
+06-23 12:14:00;DownloadService;dzc DownloadService onStart
+06-23 12:23:19;OTApplication;application is deep:false
+06-23 12:23:19;OTApplication;app version name = [4.0_151015_16]
+06-23 12:23:20;OTApplication;OTApplication newVersionStr: 
+06-23 12:23:20;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:23:20;DownloadService;dzc DownloadService onCreate
+06-23 12:23:20;DownloadService;dzc DownloadService onStartCommand
+06-23 12:23:20;DownloadService;dzc DownloadService onStart
+06-23 12:23:40;OTApplication;application is deep:false
+06-23 12:23:40;OTApplication;app version name = [4.0_151015_16]
+06-23 12:23:40;OTApplication;OTApplication newVersionStr: 
+06-23 12:23:40;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:23:40;DownloadService;dzc DownloadService onCreate
+06-23 12:23:41;DownloadService;dzc DownloadService onStartCommand
+06-23 12:23:41;DownloadService;dzc DownloadService onStart
+06-23 12:33:42;OTApplication;application is deep:false
+06-23 12:33:42;OTApplication;app version name = [4.0_151015_16]
+06-23 12:33:42;OTApplication;OTApplication newVersionStr: 
+06-23 12:33:42;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:33:42;DownloadService;dzc DownloadService onCreate
+06-23 12:33:42;DownloadService;dzc DownloadService onStartCommand
+06-23 12:33:42;DownloadService;dzc DownloadService onStart
+06-23 12:33:56;OTApplication;application is deep:false
+06-23 12:33:56;OTApplication;app version name = [4.0_151015_16]
+06-23 12:33:56;OTApplication;OTApplication newVersionStr: 
+06-23 12:33:56;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:33:56;DownloadService;dzc DownloadService onCreate
+06-23 12:33:56;DownloadService;dzc DownloadService onStartCommand
+06-23 12:33:56;DownloadService;dzc DownloadService onStart
+06-23 12:35:24;OTApplication;application is deep:false
+06-23 12:35:24;OTApplication;app version name = [4.0_151015_16]
+06-23 12:35:24;OTApplication;OTApplication newVersionStr: 
+06-23 12:35:24;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:35:24;DownloadService;dzc DownloadService onCreate
+06-23 12:35:24;DownloadService;dzc DownloadService onStartCommand
+06-23 12:35:24;DownloadService;dzc DownloadService onStart
+06-23 12:36:13;OTApplication;application is deep:false
+06-23 12:36:13;OTApplication;app version name = [4.0_151015_16]
+06-23 12:36:13;OTApplication;OTApplication newVersionStr: 
+06-23 12:36:13;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:36:13;DownloadService;dzc DownloadService onCreate
+06-23 12:36:13;DownloadService;dzc DownloadService onStartCommand
+06-23 12:36:13;DownloadService;dzc DownloadService onStart
+06-23 12:38:09;OTApplication;application is deep:false
+06-23 12:38:09;OTApplication;app version name = [4.0_151015_16]
+06-23 12:38:09;OTApplication;OTApplication newVersionStr: 
+06-23 12:38:09;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:38:09;DownloadService;dzc DownloadService onCreate
+06-23 12:38:09;DownloadService;dzc DownloadService onStartCommand
+06-23 12:38:09;DownloadService;dzc DownloadService onStart
+06-23 12:38:29;OTApplication;application is deep:false
+06-23 12:38:29;OTApplication;app version name = [4.0_151015_16]
+06-23 12:38:29;OTApplication;OTApplication newVersionStr: 
+06-23 12:38:29;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:38:29;DownloadService;dzc DownloadService onCreate
+06-23 12:38:29;DownloadService;dzc DownloadService onStartCommand
+06-23 12:38:29;DownloadService;dzc DownloadService onStart
+06-23 12:40:20;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 12:40:20;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 12:40:20;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 12:40:20;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 12:40:20;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 12:40:20;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:20;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 12:40:20;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:20;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 12:40:20;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 12:40:20;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 12:40:20;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 12:40:20;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 12:40:20;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 12:40:20;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 12:40:21;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 12:40:21;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 12:40:21;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 12:40:21;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 12:40:21;DownloadService;dzc DownloadService onStartCommand
+06-23 12:40:21;DownloadService;dzc DownloadService onStart
+06-23 12:40:21;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 12:40:21;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 12:40:40;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 12:40:40;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 12:40:40;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 12:40:40;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 12:40:40;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 12:40:40;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:40;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 12:40:40;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:40;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 12:40:40;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 12:40:40;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 12:40:40;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 12:40:40;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 12:40:40;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 12:40:42;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 12:40:42;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 12:40:42;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 12:40:42;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 12:40:42;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 12:40:42;DownloadService;dzc DownloadService onStartCommand
+06-23 12:40:42;DownloadService;dzc DownloadService onStart
+06-23 12:40:42;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 12:40:42;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 12:40:58;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 12:40:58;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 12:40:58;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 12:40:58;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 12:40:58;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 12:40:58;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:58;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 12:40:58;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 12:40:58;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 12:40:58;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 12:40:58;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 12:40:58;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 12:40:58;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 12:40:58;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 12:40:59;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 12:40:59;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 12:40:59;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 12:40:59;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 12:40:59;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 12:40:59;DownloadService;dzc DownloadService onStartCommand
+06-23 12:40:59;DownloadService;dzc DownloadService onStart
+06-23 12:40:59;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 12:40:59;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 12:42:25;OTApplication;application is deep:false
+06-23 12:42:25;OTApplication;app version name = [4.0_151015_16]
+06-23 12:42:25;OTApplication;OTApplication newVersionStr: 
+06-23 12:42:25;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:42:26;DownloadService;dzc DownloadService onCreate
+06-23 12:42:26;DownloadService;dzc DownloadService onStartCommand
+06-23 12:42:26;DownloadService;dzc DownloadService onStart
+06-23 12:44:22;OTApplication;application is deep:false
+06-23 12:44:22;OTApplication;app version name = [4.0_151015_16]
+06-23 12:44:22;OTApplication;OTApplication newVersionStr: 
+06-23 12:44:22;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:44:24;DownloadService;dzc DownloadService onCreate
+06-23 12:44:24;DownloadService;dzc DownloadService onStartCommand
+06-23 12:44:24;DownloadService;dzc DownloadService onStart
+06-23 12:45:48;OTApplication;application is deep:false
+06-23 12:45:48;OTApplication;app version name = [4.0_151015_16]
+06-23 12:45:48;OTApplication;OTApplication newVersionStr: 
+06-23 12:45:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:45:48;DownloadService;dzc DownloadService onCreate
+06-23 12:45:48;DownloadService;dzc DownloadService onStartCommand
+06-23 12:45:48;DownloadService;dzc DownloadService onStart
+06-23 12:47:45;OTApplication;application is deep:false
+06-23 12:47:45;OTApplication;app version name = [4.0_151015_16]
+06-23 12:47:45;OTApplication;OTApplication newVersionStr: 
+06-23 12:47:45;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:47:50;DownloadService;dzc DownloadService onCreate
+06-23 12:47:50;DownloadService;dzc DownloadService onStartCommand
+06-23 12:47:50;DownloadService;dzc DownloadService onStart
+06-23 12:48:06;OTApplication;application is deep:false
+06-23 12:48:06;OTApplication;app version name = [4.0_151015_16]
+06-23 12:48:06;OTApplication;OTApplication newVersionStr: 
+06-23 12:48:06;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 12:48:06;DownloadService;dzc DownloadService onCreate
+06-23 12:48:06;DownloadService;dzc DownloadService onStartCommand
+06-23 12:48:06;DownloadService;dzc DownloadService onStart
+06-23 13:06:58;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 13:06:58;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 13:06:58;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 13:06:58;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 13:06:58;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 13:06:58;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:06:58;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 13:06:58;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:06:58;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 13:06:58;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:06:58;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:06:58;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:06:58;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:06:58;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:06:59;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:06:59;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:06:59;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:06:59;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:06:59;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 13:06:59;DownloadService;dzc DownloadService onStartCommand
+06-23 13:06:59;DownloadService;dzc DownloadService onStart
+06-23 13:06:59;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:06:59;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:07:11;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 13:07:11;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 13:07:11;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 13:07:11;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 13:07:11;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 13:07:11;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:07:11;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 13:07:11;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:07:11;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 13:07:11;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:07:11;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:07:11;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:07:11;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:07:11;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:07:13;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:07:13;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:07:13;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:07:13;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:07:13;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 13:07:13;DownloadService;dzc DownloadService onStartCommand
+06-23 13:07:13;DownloadService;dzc DownloadService onStart
+06-23 13:07:13;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:07:13;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:07:21;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 13:07:21;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 13:07:21;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 13:07:21;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 13:07:21;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 13:07:21;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:07:21;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 13:07:21;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 13:07:21;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 13:07:21;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:07:21;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:07:21;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:07:21;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:07:21;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:07:22;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:07:22;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:07:22;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:07:22;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:07:22;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 13:07:22;DownloadService;dzc DownloadService onStartCommand
+06-23 13:07:22;DownloadService;dzc DownloadService onStart
+06-23 13:07:22;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:07:22;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:11:17;OTApplication;application is deep:false
+06-23 13:11:17;OTApplication;app version name = [4.0_151015_16]
+06-23 13:11:17;OTApplication;OTApplication newVersionStr: 
+06-23 13:11:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:11:17;DownloadService;dzc DownloadService onCreate
+06-23 13:11:17;DownloadService;dzc DownloadService onStartCommand
+06-23 13:11:17;DownloadService;dzc DownloadService onStart
+06-23 13:14:35;OTApplication;application is deep:false
+06-23 13:14:35;OTApplication;app version name = [4.0_151015_16]
+06-23 13:14:35;OTApplication;OTApplication newVersionStr: 
+06-23 13:14:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:14:35;DownloadService;dzc DownloadService onCreate
+06-23 13:14:35;DownloadService;dzc DownloadService onStartCommand
+06-23 13:14:35;DownloadService;dzc DownloadService onStart
+06-23 13:17:39;OTApplication;application is deep:false
+06-23 13:17:39;OTApplication;app version name = [4.0_151015_16]
+06-23 13:17:39;OTApplication;OTApplication newVersionStr: 
+06-23 13:17:39;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:17:39;DownloadService;dzc DownloadService onCreate
+06-23 13:17:39;DownloadService;dzc DownloadService onStartCommand
+06-23 13:17:39;DownloadService;dzc DownloadService onStart
+06-23 13:18:03;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 13:18:04;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:18:04;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:18:04;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:18:04;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:18:04;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:18:06;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:18:06;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:18:06;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:18:06;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:18:06;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 13:18:06;DownloadService;dzc DownloadService onStartCommand
+06-23 13:18:06;DownloadService;dzc DownloadService onStart
+06-23 13:18:06;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:18:06;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:18:55;OTApplication;application is deep:false
+06-23 13:18:55;OTApplication;app version name = [4.0_151015_16]
+06-23 13:18:55;OTApplication;OTApplication newVersionStr: 
+06-23 13:18:55;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:18:55;DownloadService;dzc DownloadService onCreate
+06-23 13:18:55;DownloadService;dzc DownloadService onStartCommand
+06-23 13:18:55;DownloadService;dzc DownloadService onStart
+06-23 13:20:11;OTApplication;application is deep:false
+06-23 13:20:11;OTApplication;app version name = [4.0_151015_16]
+06-23 13:20:11;OTApplication;OTApplication newVersionStr: 
+06-23 13:20:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:20:12;DownloadService;dzc DownloadService onCreate
+06-23 13:20:13;DownloadService;dzc DownloadService onStartCommand
+06-23 13:20:13;DownloadService;dzc DownloadService onStart
+06-23 13:20:30;OTApplication;application is deep:false
+06-23 13:20:30;OTApplication;app version name = [4.0_151015_16]
+06-23 13:20:30;OTApplication;OTApplication newVersionStr: 
+06-23 13:20:30;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:20:30;DownloadService;dzc DownloadService onCreate
+06-23 13:20:30;DownloadService;dzc DownloadService onStartCommand
+06-23 13:20:30;DownloadService;dzc DownloadService onStart
+06-23 13:21:32;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 13:21:32;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:21:32;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:21:32;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:21:32;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:21:32;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:21:33;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:21:33;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:21:33;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:21:33;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:21:33;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 13:21:33;DownloadService;dzc DownloadService onStartCommand
+06-23 13:21:33;DownloadService;dzc DownloadService onStart
+06-23 13:21:33;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:21:33;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:31:39;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 13:31:39;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 13:31:39;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 13:31:39;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 13:31:39;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 13:31:39;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 13:31:39;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 13:31:39;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 13:31:39;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 13:31:39;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 13:31:39;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 13:31:39;DownloadService;dzc DownloadService onStartCommand
+06-23 13:31:39;DownloadService;dzc DownloadService onStart
+06-23 13:31:39;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 13:31:39;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 13:44:45;OTApplication;application is deep:false
+06-23 13:44:45;OTApplication;app version name = [4.0_151015_16]
+06-23 13:44:45;OTApplication;OTApplication newVersionStr: 
+06-23 13:44:45;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:44:45;DownloadService;dzc DownloadService onCreate
+06-23 13:44:46;DownloadService;dzc DownloadService onStartCommand
+06-23 13:44:46;DownloadService;dzc DownloadService onStart
+06-23 13:46:46;OTApplication;application is deep:false
+06-23 13:46:46;OTApplication;app version name = [4.0_151015_16]
+06-23 13:46:46;OTApplication;OTApplication newVersionStr: 
+06-23 13:46:46;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:46:47;DownloadService;dzc DownloadService onCreate
+06-23 13:46:47;DownloadService;dzc DownloadService onStartCommand
+06-23 13:46:47;DownloadService;dzc DownloadService onStart
+06-23 13:55:04;OTApplication;application is deep:false
+06-23 13:55:04;OTApplication;app version name = [4.0_151015_16]
+06-23 13:55:04;OTApplication;OTApplication newVersionStr: 
+06-23 13:55:04;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:55:04;DownloadService;dzc DownloadService onCreate
+06-23 13:55:04;DownloadService;dzc DownloadService onStartCommand
+06-23 13:55:04;DownloadService;dzc DownloadService onStart
+06-23 13:57:55;OTApplication;application is deep:false
+06-23 13:57:55;OTApplication;app version name = [4.0_151015_16]
+06-23 13:57:55;OTApplication;OTApplication newVersionStr: 
+06-23 13:57:55;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:57:55;DownloadService;dzc DownloadService onCreate
+06-23 13:57:55;DownloadService;dzc DownloadService onStartCommand
+06-23 13:57:55;DownloadService;dzc DownloadService onStart
+06-23 13:59:12;OTApplication;application is deep:false
+06-23 13:59:12;OTApplication;app version name = [4.0_151015_16]
+06-23 13:59:12;OTApplication;OTApplication newVersionStr: 
+06-23 13:59:12;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 13:59:12;DownloadService;dzc DownloadService onCreate
+06-23 13:59:12;DownloadService;dzc DownloadService onStartCommand
+06-23 13:59:12;DownloadService;dzc DownloadService onStart
+06-23 14:03:10;OTApplication;application is deep:false
+06-23 14:03:10;OTApplication;app version name = [4.0_151015_16]
+06-23 14:03:10;OTApplication;OTApplication newVersionStr: 
+06-23 14:03:10;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:03:11;DownloadService;dzc DownloadService onCreate
+06-23 14:03:11;DownloadService;dzc DownloadService onStartCommand
+06-23 14:03:11;DownloadService;dzc DownloadService onStart
+06-23 14:03:24;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 14:03:24;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 14:03:24;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 14:03:24;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 14:03:24;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 14:03:24;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:24;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 14:03:24;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:24;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 14:03:24;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 14:03:24;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 14:03:24;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 14:03:24;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 14:03:24;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 14:03:25;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 14:03:25;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 14:03:25;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 14:03:25;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 14:03:25;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 14:03:25;DownloadService;dzc DownloadService onStartCommand
+06-23 14:03:25;DownloadService;dzc DownloadService onStart
+06-23 14:03:25;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 14:03:25;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 14:03:43;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 14:03:43;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 14:03:43;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 14:03:43;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 14:03:43;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 14:03:43;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:43;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 14:03:43;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:43;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 14:03:43;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 14:03:43;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 14:03:43;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 14:03:43;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 14:03:43;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 14:03:44;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 14:03:44;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 14:03:44;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 14:03:44;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 14:03:44;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 14:03:44;DownloadService;dzc DownloadService onStartCommand
+06-23 14:03:44;DownloadService;dzc DownloadService onStart
+06-23 14:03:44;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 14:03:44;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 14:03:53;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 14:03:53;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 14:03:53;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 14:03:53;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 14:03:53;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 14:03:53;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:53;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 14:03:53;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:03:53;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 14:03:53;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 14:03:53;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 14:03:53;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 14:03:53;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 14:03:53;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 14:03:53;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 14:03:53;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 14:03:53;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 14:03:53;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 14:03:53;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 14:03:53;DownloadService;dzc DownloadService onStartCommand
+06-23 14:03:53;DownloadService;dzc DownloadService onStart
+06-23 14:03:53;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 14:03:53;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 14:20:08;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_SHUTDOWN
+06-23 14:20:08;OTApplication;UpdateReceiver receive ACTION_SHUTDOWN
+06-23 14:22:10;OTApplication;application is deep:false
+06-23 14:22:10;OTApplication;app version name = [4.0_151015_16]
+06-23 14:22:11;OTApplication;OTApplication newVersionStr: 
+06-23 14:22:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:22:35;OTApplication;application is deep:false
+06-23 14:22:35;OTApplication;app version name = [4.0_151015_16]
+06-23 14:22:35;OTApplication;OTApplication newVersionStr: 
+06-23 14:22:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:22:36;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 14:22:36;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 14:22:36;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 14:22:36;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 14:22:36;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 14:22:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:22:36;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 14:22:36;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 14:22:36;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 14:22:36;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 14:22:36;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 14:22:36;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 14:22:36;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 14:22:36;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 14:22:37;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 14:22:37;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 14:22:37;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 14:22:37;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 14:22:37;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 14:22:37;DownloadService;dzc DownloadService onCreate
+06-23 14:22:37;DownloadService;dzc DownloadService onStartCommand
+06-23 14:22:37;DownloadService;dzc DownloadService onStart
+06-23 14:22:37;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 14:22:37;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 14:23:30;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.BOOT_COMPLETED
+06-23 14:23:30;jimmy;changeStr inter: 1201EX-A_11_190312
+06-23 14:23:30;queryNewVersionTag;queryNewVersionTag  realTime = OtaStrategy.QueryStrategy.AUTO_UPDATE_INTERVAL
+06-23 14:23:32;OTApplication;application is deep:false
+06-23 14:23:32;OTApplication;app version name = [4.0_151015_16]
+06-23 14:23:32;OTApplication;OTApplication newVersionStr: 
+06-23 14:23:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:23:32;DownloadService;dzc DownloadService onCreate
+06-23 14:23:32;DownloadService;dzc DownloadService onStartCommand
+06-23 14:23:32;DownloadService;dzc DownloadService onStart
+06-23 14:28:18;OTApplication;application is deep:false
+06-23 14:28:18;OTApplication;app version name = [4.0_151015_16]
+06-23 14:28:18;OTApplication;OTApplication newVersionStr: 
+06-23 14:28:18;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:28:27;DownloadService;dzc DownloadService onCreate
+06-23 14:28:28;DownloadService;dzc DownloadService onStartCommand
+06-23 14:28:28;DownloadService;dzc DownloadService onStart
+06-23 14:30:50;OTApplication;application is deep:false
+06-23 14:30:50;OTApplication;app version name = [4.0_151015_16]
+06-23 14:30:50;OTApplication;OTApplication newVersionStr: 
+06-23 14:30:50;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:30:54;DownloadService;dzc DownloadService onCreate
+06-23 14:30:56;DownloadService;dzc DownloadService onStartCommand
+06-23 14:30:56;DownloadService;dzc DownloadService onStart
+06-23 14:36:11;OTApplication;application is deep:false
+06-23 14:36:11;OTApplication;app version name = [4.0_151015_16]
+06-23 14:36:11;OTApplication;OTApplication newVersionStr: 
+06-23 14:36:11;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:36:12;DownloadService;dzc DownloadService onCreate
+06-23 14:36:12;DownloadService;dzc DownloadService onStartCommand
+06-23 14:36:12;DownloadService;dzc DownloadService onStart
+06-23 14:38:29;OTApplication;application is deep:false
+06-23 14:38:29;OTApplication;app version name = [4.0_151015_16]
+06-23 14:38:29;OTApplication;OTApplication newVersionStr: 
+06-23 14:38:29;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:38:31;DownloadService;dzc DownloadService onCreate
+06-23 14:38:31;DownloadService;dzc DownloadService onStartCommand
+06-23 14:38:31;DownloadService;dzc DownloadService onStart
+06-23 14:39:41;OTApplication;application is deep:false
+06-23 14:39:41;OTApplication;app version name = [4.0_151015_16]
+06-23 14:39:41;OTApplication;OTApplication newVersionStr: 
+06-23 14:39:41;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:39:43;DownloadService;dzc DownloadService onCreate
+06-23 14:39:43;DownloadService;dzc DownloadService onStartCommand
+06-23 14:39:43;DownloadService;dzc DownloadService onStart
+06-23 14:42:53;OTApplication;application is deep:false
+06-23 14:42:53;OTApplication;app version name = [4.0_151015_16]
+06-23 14:42:53;OTApplication;OTApplication newVersionStr: 
+06-23 14:42:53;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:42:54;DownloadService;dzc DownloadService onCreate
+06-23 14:42:54;DownloadService;dzc DownloadService onStartCommand
+06-23 14:42:54;DownloadService;dzc DownloadService onStart
+06-23 14:44:35;OTApplication;application is deep:false
+06-23 14:44:35;OTApplication;app version name = [4.0_151015_16]
+06-23 14:44:35;OTApplication;OTApplication newVersionStr: 
+06-23 14:44:35;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:44:38;DownloadService;dzc DownloadService onCreate
+06-23 14:44:38;DownloadService;dzc DownloadService onStartCommand
+06-23 14:44:38;DownloadService;dzc DownloadService onStart
+06-23 14:45:16;OTApplication;application is deep:false
+06-23 14:45:16;OTApplication;app version name = [4.0_151015_16]
+06-23 14:45:16;OTApplication;OTApplication newVersionStr: 
+06-23 14:45:16;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:45:18;DownloadService;dzc DownloadService onCreate
+06-23 14:45:18;DownloadService;dzc DownloadService onStartCommand
+06-23 14:45:18;DownloadService;dzc DownloadService onStart
+06-23 14:46:43;OTApplication;application is deep:false
+06-23 14:46:43;OTApplication;app version name = [4.0_151015_16]
+06-23 14:46:43;OTApplication;OTApplication newVersionStr: 
+06-23 14:46:43;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:46:44;DownloadService;dzc DownloadService onCreate
+06-23 14:52:18;OTApplication;application is deep:false
+06-23 14:52:19;OTApplication;app version name = [4.0_151015_16]
+06-23 14:52:19;OTApplication;OTApplication newVersionStr: 
+06-23 14:52:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:52:36;DownloadService;dzc DownloadService onCreate
+06-23 14:52:36;DownloadService;dzc DownloadService onStartCommand
+06-23 14:52:36;DownloadService;dzc DownloadService onStart
+06-23 14:54:33;OTApplication;application is deep:false
+06-23 14:54:33;OTApplication;app version name = [4.0_151015_16]
+06-23 14:54:33;OTApplication;OTApplication newVersionStr: 
+06-23 14:54:33;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:54:34;DownloadService;dzc DownloadService onCreate
+06-23 14:54:34;DownloadService;dzc DownloadService onStartCommand
+06-23 14:54:34;DownloadService;dzc DownloadService onStart
+06-23 14:55:09;OTApplication;application is deep:false
+06-23 14:55:09;OTApplication;app version name = [4.0_151015_16]
+06-23 14:55:09;OTApplication;OTApplication newVersionStr: 
+06-23 14:55:09;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:55:09;DownloadService;dzc DownloadService onCreate
+06-23 14:55:09;DownloadService;dzc DownloadService onStartCommand
+06-23 14:55:09;DownloadService;dzc DownloadService onStart
+06-23 14:56:27;OTApplication;application is deep:false
+06-23 14:56:27;OTApplication;app version name = [4.0_151015_16]
+06-23 14:56:27;OTApplication;OTApplication newVersionStr: 
+06-23 14:56:27;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:56:27;DownloadService;dzc DownloadService onCreate
+06-23 14:56:27;DownloadService;dzc DownloadService onStartCommand
+06-23 14:56:27;DownloadService;dzc DownloadService onStart
+06-23 14:59:48;OTApplication;application is deep:false
+06-23 14:59:48;OTApplication;app version name = [4.0_151015_16]
+06-23 14:59:48;OTApplication;OTApplication newVersionStr: 
+06-23 14:59:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 14:59:48;DownloadService;dzc DownloadService onCreate
+06-23 14:59:48;DownloadService;dzc DownloadService onStartCommand
+06-23 14:59:48;DownloadService;dzc DownloadService onStart
+06-23 15:00:08;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 15:00:08;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 15:00:08;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 15:00:08;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 15:00:08;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 15:00:08;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 15:00:10;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 15:00:10;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 15:00:10;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 15:00:10;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 15:00:10;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 15:00:10;DownloadService;dzc DownloadService onStartCommand
+06-23 15:00:10;DownloadService;dzc DownloadService onStart
+06-23 15:00:10;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 15:00:10;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 15:20:14;OTApplication;application is deep:false
+06-23 15:20:14;OTApplication;app version name = [4.0_151015_16]
+06-23 15:20:14;OTApplication;OTApplication newVersionStr: 
+06-23 15:20:14;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:20:15;DownloadService;dzc DownloadService onCreate
+06-23 15:20:15;DownloadService;dzc DownloadService onStartCommand
+06-23 15:20:15;DownloadService;dzc DownloadService onStart
+06-23 15:22:17;OTApplication;application is deep:false
+06-23 15:22:17;OTApplication;app version name = [4.0_151015_16]
+06-23 15:22:17;OTApplication;OTApplication newVersionStr: 
+06-23 15:22:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:22:17;DownloadService;dzc DownloadService onCreate
+06-23 15:22:18;DownloadService;dzc DownloadService onStartCommand
+06-23 15:22:18;DownloadService;dzc DownloadService onStart
+06-23 15:22:37;OTApplication;application is deep:false
+06-23 15:22:37;OTApplication;app version name = [4.0_151015_16]
+06-23 15:22:38;OTApplication;OTApplication newVersionStr: 
+06-23 15:22:38;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:22:40;DownloadService;dzc DownloadService onCreate
+06-23 15:22:40;DownloadService;dzc DownloadService onStartCommand
+06-23 15:22:40;DownloadService;dzc DownloadService onStart
+06-23 15:23:54;OTApplication;application is deep:false
+06-23 15:23:54;OTApplication;app version name = [4.0_151015_16]
+06-23 15:23:54;OTApplication;OTApplication newVersionStr: 
+06-23 15:23:54;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:23:54;DownloadService;dzc DownloadService onCreate
+06-23 15:23:54;DownloadService;dzc DownloadService onStartCommand
+06-23 15:23:54;DownloadService;dzc DownloadService onStart
+06-23 15:26:39;OTApplication;application is deep:false
+06-23 15:26:39;OTApplication;app version name = [4.0_151015_16]
+06-23 15:26:39;OTApplication;OTApplication newVersionStr: 
+06-23 15:26:39;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:26:39;DownloadService;dzc DownloadService onCreate
+06-23 15:26:39;DownloadService;dzc DownloadService onStartCommand
+06-23 15:26:39;DownloadService;dzc DownloadService onStart
+06-23 15:27:08;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 15:27:26;OTApplication;application is deep:false
+06-23 15:27:26;OTApplication;app version name = [4.0_151015_16]
+06-23 15:27:26;OTApplication;OTApplication newVersionStr: 
+06-23 15:27:26;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:27:26;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 15:27:26;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 15:27:26;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 15:27:26;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 15:27:26;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 15:27:26;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 15:27:26;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 15:27:26;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 15:27:26;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 15:27:26;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 15:27:26;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 15:27:26;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 15:27:26;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 15:27:26;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 15:27:29;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 15:27:29;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 15:27:29;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 15:27:29;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 15:27:29;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 15:27:29;DownloadService;dzc DownloadService onCreate
+06-23 15:27:29;DownloadService;dzc DownloadService onStartCommand
+06-23 15:27:29;DownloadService;dzc DownloadService onStart
+06-23 15:27:29;DownloadService;dzc DownloadService onStartCommand
+06-23 15:27:29;DownloadService;dzc DownloadService onStart
+06-23 15:27:29;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 15:27:29;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 15:27:39;UpdateReceiver;dzc UpdateReceiver action = android.net.conn.CONNECTIVITY_CHANGE
+06-23 15:27:39;queryNewVersionTag;queryNewVersionTag 有可用网络：
+06-23 15:27:39;queryNewVersionTag;queryNewVersionTag 需要处理网络变化：true 安装状态：false
+06-23 15:27:39;queryNewVersionTag;queryNewVersionTag接受到网络广播：检查是否要查询更新或者进行自动下载
+06-23 15:27:39;UpdateReceiver;dzc UpdateReceiver isWifiActive 1
+06-23 15:27:39;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 15:27:39;UpdateReceiver;UpdateReceiver is cmcc and not query:false
+06-23 15:27:39;SystemPropertyUtils;SystemPropertyUtilsSystemProperties: persist.sys.oppo.cmccota is:
+06-23 15:27:39;queryNewVersionTag;queryNewVersionTag last query time  is :2021-06-23:10-49-36
+06-23 15:27:39;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 15:27:39;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 15:27:39;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 15:27:39;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 15:27:39;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 15:27:39;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 15:27:39;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 15:27:39;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 15:27:39;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 15:27:39;debugyDownloadTag;debugyDownloadTag 不需要查询更新，判断是否能自动下载:true
+06-23 15:27:39;DownloadService;dzc DownloadService onStartCommand
+06-23 15:27:39;DownloadService;dzc DownloadService onStart
+06-23 15:27:40;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 15:27:40;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 15:29:24;OTApplication;application is deep:false
+06-23 15:29:24;OTApplication;app version name = [4.0_151015_16]
+06-23 15:29:25;OTApplication;OTApplication newVersionStr: 
+06-23 15:29:25;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:29:26;DownloadService;dzc DownloadService onCreate
+06-23 15:29:26;DownloadService;dzc DownloadService onStartCommand
+06-23 15:29:26;DownloadService;dzc DownloadService onStart
+06-23 15:31:41;OTApplication;application is deep:false
+06-23 15:31:41;OTApplication;app version name = [4.0_151015_16]
+06-23 15:31:41;OTApplication;OTApplication newVersionStr: 
+06-23 15:31:41;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:31:45;DownloadService;dzc DownloadService onCreate
+06-23 15:31:45;DownloadService;dzc DownloadService onStartCommand
+06-23 15:31:45;DownloadService;dzc DownloadService onStart
+06-23 15:34:14;OTApplication;application is deep:false
+06-23 15:34:14;OTApplication;app version name = [4.0_151015_16]
+06-23 15:34:14;OTApplication;OTApplication newVersionStr: 
+06-23 15:34:14;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:34:14;DownloadService;dzc DownloadService onCreate
+06-23 15:34:14;DownloadService;dzc DownloadService onStartCommand
+06-23 15:34:14;DownloadService;dzc DownloadService onStart
+06-23 15:35:39;OTApplication;application is deep:false
+06-23 15:35:39;OTApplication;app version name = [4.0_151015_16]
+06-23 15:35:39;OTApplication;OTApplication newVersionStr: 
+06-23 15:35:39;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:35:39;DownloadService;dzc DownloadService onCreate
+06-23 15:35:39;DownloadService;dzc DownloadService onStartCommand
+06-23 15:35:39;DownloadService;dzc DownloadService onStart
+06-23 15:41:09;OTApplication;application is deep:false
+06-23 15:41:09;OTApplication;app version name = [4.0_151015_16]
+06-23 15:41:09;OTApplication;OTApplication newVersionStr: 
+06-23 15:41:09;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:41:09;DownloadService;dzc DownloadService onCreate
+06-23 15:41:09;DownloadService;dzc DownloadService onStartCommand
+06-23 15:41:09;DownloadService;dzc DownloadService onStart
+06-23 15:46:19;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 15:46:19;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 15:46:19;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 15:46:19;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 15:46:19;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 15:46:19;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 15:46:20;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 15:46:20;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 15:46:20;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 15:46:20;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 15:46:20;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 15:46:20;DownloadService;dzc DownloadService onStartCommand
+06-23 15:46:20;DownloadService;dzc DownloadService onStart
+06-23 15:46:20;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 15:46:20;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
+06-23 15:47:58;OTApplication;application is deep:false
+06-23 15:47:58;OTApplication;app version name = [4.0_151015_16]
+06-23 15:47:58;OTApplication;OTApplication newVersionStr: 
+06-23 15:47:58;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:47:59;DownloadService;dzc DownloadService onCreate
+06-23 15:47:59;DownloadService;dzc DownloadService onStartCommand
+06-23 15:47:59;DownloadService;dzc DownloadService onStart
+06-23 15:49:19;OTApplication;application is deep:false
+06-23 15:49:19;OTApplication;app version name = [4.0_151015_16]
+06-23 15:49:19;OTApplication;OTApplication newVersionStr: 
+06-23 15:49:19;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:49:21;DownloadService;dzc DownloadService onCreate
+06-23 15:51:37;OTApplication;application is deep:false
+06-23 15:51:37;OTApplication;app version name = [4.0_151015_16]
+06-23 15:51:37;OTApplication;OTApplication newVersionStr: 
+06-23 15:51:37;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:51:38;DownloadService;dzc DownloadService onCreate
+06-23 15:51:38;DownloadService;dzc DownloadService onStartCommand
+06-23 15:51:38;DownloadService;dzc DownloadService onStart
+06-23 15:52:48;OTApplication;application is deep:false
+06-23 15:52:48;OTApplication;app version name = [4.0_151015_16]
+06-23 15:52:48;OTApplication;OTApplication newVersionStr: 
+06-23 15:52:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:52:50;DownloadService;dzc DownloadService onCreate
+06-23 15:52:50;DownloadService;dzc DownloadService onStartCommand
+06-23 15:52:50;DownloadService;dzc DownloadService onStart
+06-23 15:53:15;OTApplication;application is deep:false
+06-23 15:53:15;OTApplication;app version name = [4.0_151015_16]
+06-23 15:53:15;OTApplication;OTApplication newVersionStr: 
+06-23 15:53:15;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:53:15;DownloadService;dzc DownloadService onCreate
+06-23 15:53:15;DownloadService;dzc DownloadService onStartCommand
+06-23 15:53:15;DownloadService;dzc DownloadService onStart
+06-23 15:56:06;OTApplication;application is deep:false
+06-23 15:56:06;OTApplication;app version name = [4.0_151015_16]
+06-23 15:56:06;OTApplication;OTApplication newVersionStr: 
+06-23 15:56:06;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:56:07;DownloadService;dzc DownloadService onCreate
+06-23 15:56:07;DownloadService;dzc DownloadService onStartCommand
+06-23 15:56:07;DownloadService;dzc DownloadService onStart
+06-23 15:59:56;OTApplication;application is deep:false
+06-23 15:59:56;OTApplication;app version name = [4.0_151015_16]
+06-23 15:59:56;OTApplication;OTApplication newVersionStr: 
+06-23 15:59:56;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 15:59:56;DownloadService;dzc DownloadService onCreate
+06-23 15:59:57;DownloadService;dzc DownloadService onStartCommand
+06-23 15:59:57;DownloadService;dzc DownloadService onStart
+06-23 16:00:32;OTApplication;application is deep:false
+06-23 16:00:32;OTApplication;app version name = [4.0_151015_16]
+06-23 16:00:32;OTApplication;OTApplication newVersionStr: 
+06-23 16:00:32;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 16:00:33;DownloadService;dzc DownloadService onCreate
+06-23 16:00:33;DownloadService;dzc DownloadService onStartCommand
+06-23 16:00:33;DownloadService;dzc DownloadService onStart
+06-23 16:02:17;OTApplication;application is deep:false
+06-23 16:02:17;OTApplication;app version name = [4.0_151015_16]
+06-23 16:02:17;OTApplication;OTApplication newVersionStr: 
+06-23 16:02:17;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 16:02:20;DownloadService;dzc DownloadService onCreate
+06-23 16:02:21;DownloadService;dzc DownloadService onStartCommand
+06-23 16:02:21;DownloadService;dzc DownloadService onStart
+06-23 16:02:48;OTApplication;application is deep:false
+06-23 16:02:48;OTApplication;app version name = [4.0_151015_16]
+06-23 16:02:48;OTApplication;OTApplication newVersionStr: 
+06-23 16:02:48;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 16:02:48;DownloadService;dzc DownloadService onCreate
+06-23 16:02:48;DownloadService;dzc DownloadService onStartCommand
+06-23 16:02:48;DownloadService;dzc DownloadService onStart
+06-23 16:52:57;OTApplication;application is deep:false
+06-23 16:52:57;OTApplication;app version name = [4.0_151015_16]
+06-23 16:52:57;OTApplication;OTApplication newVersionStr: 
+06-23 16:52:57;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 16:52:57;DownloadService;dzc DownloadService onCreate
+06-23 16:52:57;DownloadService;dzc DownloadService onStartCommand
+06-23 16:52:57;DownloadService;dzc DownloadService onStart
+06-23 17:27:08;OTApplication;application is deep:false
+06-23 17:27:08;OTApplication;app version name = [4.0_151015_16]
+06-23 17:27:08;OTApplication;OTApplication newVersionStr: 
+06-23 17:27:08;OTApplication;OTApplication OTA Version: 1201EX-A_11.A.17_INT_017_201903120851
+06-23 17:27:08;DownloadService;dzc DownloadService onCreate
+06-23 17:27:08;DownloadService;dzc DownloadService onStartCommand
+06-23 17:27:08;DownloadService;dzc DownloadService onStart
+06-23 17:45:56;UpdateReceiver;dzc UpdateReceiver action = android.intent.action.ACTION_POWER_CONNECTED
+06-23 17:45:56;NotificationHelper;NotificationHelper ip is 192.168.1.19
+06-23 17:45:56;NotificationHelper;NotificationHelper is not an android PersonalWifiIp range
+06-23 17:45:56;NotificationHelper;NotificationHelper is not an ios PersonalWifiIp range
+06-23 17:45:56;NotificationHelper;NotificationHelper ip is 192.168.1.19 ip 不是个人wifi的ip，判断不是个人wifi
+06-23 17:45:56;NotificationHelper;NotificationHelper ip is 192.168.1.19 是否个人wifi：false
+06-23 17:45:56;debugyDownloadTag;debugyDownloadTagauto download condition: capableDownlaod:true has rooted:自动下载root条件：沒有root
+06-23 17:45:56;debugyDownloadTag;debugyDownloadTag 没有需要自动下载的版本
+06-23 17:45:56;debugyDownloadTag;debugyDownloadTag capable download:true 当前是否能够下载条件：true
+06-23 17:45:56;debugyDownloadTag;debugyDownloadTag start download service to download autolly:启动下载服务;
+06-23 17:45:56;UpdateReceiver;dzc UpdateReceiver autoDownload: no need to kill
+06-23 17:45:56;DownloadService;dzc DownloadService onStartCommand
+06-23 17:45:56;DownloadService;dzc DownloadService onStart
+06-23 17:45:56;DownloadService;由通知栏点击或者自动下载启动下载服务
+06-23 17:45:56;DownloadService;zhr state is not install: start download：totalSize：0  downloadedFileSize:0
